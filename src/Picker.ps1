@@ -47,7 +47,7 @@ $EnginePath   = Join-Path $AppDir 'KfupmSorter.ps1'
 $IconPath     = Join-Path $AppDir 'app.ico'
 $TaskName     = 'KFUPM Sorter'
 $LegacyTask   = 'Downloads AutoSorter'      # the task the old zip version created
-$Version      = '1.1.0'
+$Version      = '1.2.0'
 $RepoUrl      = 'https://github.com/kal429/kfupm-sorter'
 $SiteUrl      = 'https://kal429.github.io/kfupm-sorter/'
 

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>KFUPM Sorter</title>
-<meta name="description" content="Keeps your Downloads folder sorted by KFUPM course, automatically. Windows app and iPhone / iPad / Mac shortcut.">
+<meta name="description" content="Keeps your Downloads folder sorted by KFUPM course, automatically. Windows and Mac apps, iPhone / iPad shortcut.">
 <link rel="icon" href="icon-256.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -73,7 +73,7 @@
   .ico { width: 40px; height: 40px; border-radius: 10px; background: #E6F3EC; display: grid; place-items: center; }
   .ico svg { width: 22px; height: 22px; stroke: var(--green); }
 
-  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .two { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
   .steps { counter-reset: s; list-style: none; padding: 0; margin: 0; }
   .steps li { position: relative; padding-inline-start: 44px; margin-bottom: 16px; }
   .steps li::before { counter-increment: s; content: counter(s); position: absolute; inset-inline-start: 0; top: 0;
@@ -98,6 +98,7 @@
     .grid { grid-template-columns: 1fr 1fr; }
     .two { grid-template-columns: 1fr; }
   }
+  @media (min-width: 861px) and (max-width: 1080px) { .two { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 560px) {
     .grid { grid-template-columns: 1fr; }
     .row.in2 { padding-left: 34px; } .row.in { padding-left: 16px; }
@@ -130,7 +131,7 @@
         </a>
         <a class="btn btn-ghost" href="#apple">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg>
-          <span data-i="btnApple">iPhone, iPad &amp; Mac</span>
+          <span data-i="btnApple">Mac, iPhone &amp; iPad</span>
         </a>
       </div>
       <div class="meta" data-i="meta">Free &middot; open source &middot; Windows 10 / 11 &middot; no admin rights needed</div>
@@ -187,7 +188,7 @@
         <div class="note" data-i="smart"><b>"Windows protected your PC"?</b> The installer is not code-signed yet, so Windows shows this for any new app. Click <b>More info</b>, then <b>Run anyway</b>. Every line of code is public on GitHub.</div>
       </div>
       <div class="card" id="apple">
-        <div class="platform"><svg viewBox="0 0 24 24"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg><h3>iPhone, iPad &amp; Mac</h3></div>
+        <div class="platform"><svg viewBox="0 0 24 24"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg><h3>iPhone &amp; iPad</h3></div>
         <ol class="steps">
           <li data-i="a1">Open this page on your iPhone or iPad and tap <b>Get the Shortcut</b>, then <b>Add Shortcut</b>.</li>
           <li data-i="a2">Run it once from the Shortcuts app, choose your Downloads folder, then <b>Pick my courses</b>.</li>
@@ -196,6 +197,17 @@
         <a class="btn btn-green" id="getShortcut" href="#" data-i="btnShortcut">Get the Shortcut</a>
         <a class="btn btn-line" id="guide" href="https://github.com/kal429/kfupm-sorter/blob/main/docs/ios-shortcut.md" data-i="btnGuide">Step-by-step guide</a>
         <div class="note" data-i="appleNote">Apple devices use Apple's own Shortcuts app, so there is nothing to install from outside the App Store. Shortcuts sync over iCloud to your iPad and Mac.</div>
+      </div>
+      <div class="card" id="mac">
+        <div class="platform"><svg viewBox="0 0 24 24"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg><h3>Mac</h3></div>
+        <ol class="steps">
+          <li data-i="m1">Download the file for your Mac, open it and drag <b>KFUPM Sorter Desktop</b> into Applications.</li>
+          <li data-i="m2">The first time, right-click the app and choose <b>Open</b>. When asked, allow access to Downloads.</li>
+          <li data-i="m3">Tick your courses, press <b>Save</b> and turn on automatic sorting. It runs from the menu bar.</li>
+        </ol>
+        <a class="btn btn-green" href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Desktop-macOS-AppleSilicon.dmg" data-i="btnMacArm">Download for Mac (M1 or newer)</a>
+        <a class="btn btn-line" href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Desktop-macOS-Intel.dmg" data-i="btnMacIntel">Mac with Intel</a>
+        <div class="note" data-i="macNote">The Mac app is the Java edition of KFUPM Sorter, with Java built in. It is not notarized by Apple yet, which is why the first start needs a right-click. The same edition exists for Windows as <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Desktop-Windows-Setup.exe">KFUPM-Sorter-Desktop-Windows-Setup.exe</a>.</div>
       </div>
     </div>
   </div>
@@ -216,7 +228,7 @@
     h1: 'تنزيلاتك <span>مرتبة حسب المقرر.</span>',
     lead: 'اختر مقرراتك من الدليل الرسمي للجامعة مرة واحدة، وسيُنقل كل ملف تنزّله من محاضرات ومعامل وواجبات إلى مجلد مقرره تلقائيًا.',
     btnWin: 'تنزيل لنظام Windows',
-    btnApple: 'iPhone وiPad وMac',
+    btnApple: 'Mac وiPhone وiPad',
     meta: 'مجاني · مفتوح المصدر · Windows 10 / 11 · لا يحتاج صلاحيات المسؤول',
     featH: 'ماذا يفعل؟',
     featSub: 'صنعه طالب في جامعة الملك فهد لطلاب الجامعة.',
@@ -244,6 +256,12 @@
     a3: 'أضف أتمتة: <b>عند إغلاق Safari ← شغّل KFUPM Sorter</b>، والدليل يشرح الطريقة.',
     btnShortcut: 'احصل على الاختصار',
     btnGuide: 'الدليل خطوة بخطوة',
+    m1: 'نزّل الملف المناسب لجهازك، وافتحه، واسحب <b>KFUPM Sorter Desktop</b> إلى مجلد التطبيقات.',
+    m2: 'في المرة الأولى انقر التطبيق بالزر الأيمن واختر <b>فتح</b>، واسمح له باستخدام مجلد التنزيلات عند الطلب.',
+    m3: 'حدد مقرراتك، واضغط <b>حفظ</b>، وفعّل الترتيب التلقائي، فيعمل من شريط القوائم.',
+    btnMacArm: 'تنزيل لجهاز Mac (M1 أو أحدث)',
+    btnMacIntel: 'Mac بمعالج Intel',
+    macNote: 'تطبيق Mac هو نسخة Java من KFUPM Sorter، وJava مرفقة بداخله. ولأنه غير موثَّق من Apple بعد، يحتاج أول تشغيل إلى النقر بالزر الأيمن. وتوجد النسخة نفسها لنظام Windows باسم <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Desktop-Windows-Setup.exe">KFUPM-Sorter-Desktop-Windows-Setup.exe</a>.',
     appleNote: 'تستعمل أجهزة Apple تطبيق الاختصارات الخاص بها، فلا حاجة إلى تثبيت أي شيء من خارج App Store، وتُزامَن الاختصارات عبر iCloud مع iPad وMac.',
     disc: 'مشروع طلابي مستقل، غير تابع لجامعة الملك فهد للبترول والمعادن ولا معتمد منها.',
     soon: 'الاختصار: قريبًا'
