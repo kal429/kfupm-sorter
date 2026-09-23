@@ -2,18 +2,20 @@
 
 <p align="center"><img src="docs/icon-256.png" width="110" alt="KFUPM Sorter"></p>
 
-<h1 align="center">KFUPM Sorter</h1>
+<h1 align="center">KFUPM Sorter لنظام Windows</h1>
 
 <p align="center">يرتّب مجلد التنزيلات حسب مقرراتك تلقائيًا.<br>
-برنامج لنظامي Windows وmacOS · تطبيق واختصار لأجهزة iPhone وiPad · بالعربية والإنجليزية</p>
+<b>برنامج لنظام Windows</b> (PowerShell) · تطبيق واختصار لأجهزة iPhone وiPad · بالعربية والإنجليزية</p>
 
 <p align="center">
-  <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>تنزيل لنظام Windows</b></a> &nbsp;·&nbsp;
-  <a href="desktop-app/README.md#بالعربية"><b>Mac</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>تنزيل لنظام Windows</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية"><b>Mac</b></a> &nbsp;·&nbsp;
   <a href="docs/ios-shortcut.ar.md"><b>iPhone وiPad</b></a> &nbsp;·&nbsp;
-  <a href="https://kal429.github.io/kfupm-sorter/">الموقع</a> &nbsp;·&nbsp;
+  <a href="https://kal429.github.io/kfupm-sorter-windows/">الموقع</a> &nbsp;·&nbsp;
   <a href="README.md">English</a>
 </p>
+
+> **توجد نسختان من KFUPM Sorter.** هذه النسخة برنامج **لنظام Windows فقط** (مكتوب بـ PowerShell ولا يحتاج تثبيت أي شيء إضافي)، ومعها نسخة iPhone وiPad. أما **لجهاز Mac**، أو إن أردت التطبيق نفسه على Windows وMac، فاستعمل [**kfupm-sorter-windows-mac**](https://github.com/kal429/kfupm-sorter-windows-mac) المكتوبة بلغة Java. تعمل النسختان بالطريقة نفسها وتستعملان ملف الإعدادات نفسه، لكن استعمل واحدة منهما فقط على جهاز Windows.
 
 ---
 
@@ -60,7 +62,7 @@ Downloads/
 
 ### Windows
 
-1. نزّل **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe)**، وهذا الرابط يشير دائمًا إلى أحدث إصدار.
+1. نزّل **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe)**، وهذا الرابط يشير دائمًا إلى أحدث إصدار.
 2. شغّله، ولا حاجة إلى صلاحيات المسؤول، إذ يُثبَّت لحسابك فقط.
 3. اختر مقرراتك، وأضف ما تشاء من الفلاتر المخصصة، ثم اضغط **حفظ** ووافق على تفعيل الترتيب التلقائي.
 
@@ -68,9 +70,9 @@ Downloads/
 
 لإلغاء التثبيت: **الإعدادات ← التطبيقات ← KFUPM Sorter ← إلغاء التثبيت**. تُزال المهمة الخلفية، وتبقى ملفاتك المرتبة في أماكنها.
 
-### Mac (وWindows): نسخة Java
+### Mac
 
-مجلد [`desktop-app/`](desktop-app) فيه التطبيق نفسه مكتوبًا بلغة Java، ليعمل البرنامج الواحد على **macOS وWindows**، وJava مرفقة بداخله. نزّل `KFUPM-Sorter-Desktop-macOS-AppleSilicon.dmg` (لأجهزة M1 أو أحدث) أو `KFUPM-Sorter-Desktop-macOS-Intel.dmg` من [أحدث إصدار](https://github.com/kal429/kfupm-sorter/releases/latest)، وافتحه واسحب التطبيق إلى مجلد التطبيقات، وافتحه أول مرة بالنقر بالزر الأيمن ثم **فتح**. التفاصيل في [`desktop-app/README.md`](desktop-app/README.md#بالعربية).
+تطبيق Mac مشروع مستقل: [**KFUPM Sorter لنظامي Windows وMac**](https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية)، وهو التطبيق نفسه مكتوبًا بلغة Java وJava مرفقة بداخله. نزّل `KFUPM-Sorter-macOS-AppleSilicon.dmg` (لأجهزة M1 أو أحدث) أو `KFUPM-Sorter-macOS-Intel.dmg` من [أحدث إصدار](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest)، وافتحه واسحب التطبيق إلى مجلد التطبيقات، وافتحه أول مرة بالنقر بالزر الأيمن ثم **فتح**.
 
 ### iPhone وiPad
 
@@ -80,7 +82,7 @@ Downloads/
 
 ## المتطلبات
 
-Windows 10 أو 11، وكل ما يحتاجه البرنامج مرفق مع Windows. أما نسخة Apple فتحتاج جهاز iPhone أو iPad أو Mac محدَّثًا مع تطبيق الاختصارات المدمج.
+Windows 10 أو 11، وكل ما يحتاجه البرنامج مرفق مع Windows. أما اختصار iPhone وiPad فيحتاج تطبيق الاختصارات المدمج. ولجهاز Mac راجع [kfupm-sorter-windows-mac](https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية).
 
 ---
 

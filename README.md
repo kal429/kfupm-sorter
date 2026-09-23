@@ -1,17 +1,19 @@
 <p align="center"><img src="docs/icon-256.png" width="110" alt="KFUPM Sorter icon"></p>
 
-<h1 align="center">KFUPM Sorter</h1>
+<h1 align="center">KFUPM Sorter for Windows</h1>
 
 <p align="center">Keeps your Downloads folder sorted by course, automatically.<br>
-Windows app &middot; Mac app &middot; iPhone &amp; iPad &middot; English and Arabic</p>
+<b>Windows app</b> (PowerShell) &middot; iPhone &amp; iPad &middot; English and Arabic</p>
 
 <p align="center">
-  <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp;
-  <a href="desktop-app/README.md"><b>Mac</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter-windows-mac"><b>Mac</b></a> &nbsp;&middot;&nbsp;
   <a href="docs/ios-shortcut.md"><b>iPhone &amp; iPad</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://kal429.github.io/kfupm-sorter/">Website</a> &nbsp;&middot;&nbsp;
+  <a href="https://kal429.github.io/kfupm-sorter-windows/">Website</a> &nbsp;&middot;&nbsp;
   <a href="README.ar.md">العربية</a>
 </p>
+
+> **Two versions of KFUPM Sorter.** This one is the **Windows-only** app (written in PowerShell, nothing extra to install) together with the iPhone / iPad version. For **Mac**, or if you want the same app on Windows and Mac, use [**kfupm-sorter-windows-mac**](https://github.com/kal429/kfupm-sorter-windows-mac), written in Java. Both sort the same way and use the same settings file, but use only one of them on a Windows PC.
 
 ---
 
@@ -55,7 +57,7 @@ Downloads/
 
 ### Windows
 
-1. Download **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe)**. This link always points to the newest version.
+1. Download **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe)**. This link always points to the newest version.
 2. Run it. No administrator rights needed. It installs for your user only.
 3. Pick your courses, add any custom filters, press **Save**, and accept "turn on automatic sorting".
 
@@ -63,9 +65,9 @@ Downloads/
 
 To uninstall, use **Settings → Apps → KFUPM Sorter → Uninstall**. The background task is removed, and your sorted files stay where they are.
 
-### Mac (and Windows): the Java edition
+### Mac
 
-[`desktop-app/`](desktop-app) is the same app written in Java, so one program runs on **macOS and Windows**, with Java bundled inside. Download `KFUPM-Sorter-Desktop-macOS-AppleSilicon.dmg` (M1 or newer) or `KFUPM-Sorter-Desktop-macOS-Intel.dmg` from the [latest release](https://github.com/kal429/kfupm-sorter/releases/latest), open it and drag the app to Applications. The first time, right-click it and choose **Open** (it is not notarized yet). Details: [`desktop-app/README.md`](desktop-app/README.md).
+The Mac app is a separate project: [**KFUPM Sorter for Windows and Mac**](https://github.com/kal429/kfupm-sorter-windows-mac), the same app written in Java with Java built in. Download `KFUPM-Sorter-macOS-AppleSilicon.dmg` (M1 or newer) or `KFUPM-Sorter-macOS-Intel.dmg` from its [latest release](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest), open it and drag the app to Applications. The first time, right-click it and choose **Open** (it is not notarized yet).
 
 ### iPhone and iPad
 
@@ -98,14 +100,13 @@ To build it on your own PC:
 | `installer/KFUPM-Sorter.iss` | Inno Setup script that builds the `.exe` installer |
 | `ios/courses.txt` | Course list read by the iPhone / iPad / Mac shortcut |
 | `ios-app/` | Native iPhone / iPad app (SwiftUI) and its build spec |
-| `desktop-app/` | Java edition for macOS and Windows (Swing, no libraries) |
 | `docs/` | Download website (GitHub Pages) and the Apple guide |
 
 Settings live in `%APPDATA%\KFUPM Sorter\` (`rules.json`, `settings.json`, `sorter.log`, `lastrun.txt`).
 
 ## Requirements
 
-Windows 10 or 11 for the regular Windows app (everything it needs ships with Windows). macOS 12 or later for the Mac app. The iPhone / iPad shortcut needs the built-in Shortcuts app.
+Windows 10 or 11 (everything it needs ships with Windows). The iPhone / iPad shortcut needs the built-in Shortcuts app. For Mac, see [kfupm-sorter-windows-mac](https://github.com/kal429/kfupm-sorter-windows-mac).
 
 ---
 

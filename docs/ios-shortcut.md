@@ -10,7 +10,7 @@ It never deletes anything and never sends anything anywhere. The only network ca
 
 ## Option 1: install it with one tap (easiest)
 
-1. On your iPhone or iPad, open the **Get the Shortcut** button on the [download page](https://kal429.github.io/kfupm-sorter/). (If the button says *coming soon*, use Option 2 for now.)
+1. On your iPhone or iPad, open the **Get the Shortcut** button on the [download page](https://kal429.github.io/kfupm-sorter-windows/). (If the button says *coming soon*, use Option 2 for now.)
 2. Tap **Add Shortcut**.
 3. Open the Shortcuts app and tap **KFUPM Sorter** once. It asks you to pick your **Downloads** folder (iCloud Drive → Downloads), then shows the menu.
 4. Choose **Pick my courses** and select your courses (use the search bar, for example `coe 301`).
@@ -54,7 +54,7 @@ Add these actions in order. Indented actions go inside the block above them.
 4. &nbsp;&nbsp;**Choose from Menu** with prompt `KFUPM Sorter` and four items: `Sort now`, `Pick my courses`, `Add a custom filter`, `Clear custom filters`.
 5. &nbsp;&nbsp;Under **Sort now**: nothing (leave it empty).
 6. &nbsp;&nbsp;Under **Pick my courses**:
-   1. **Get Contents of URL**: `https://raw.githubusercontent.com/kal429/kfupm-sorter/main/ios/courses.txt`
+   1. **Get Contents of URL**: `https://raw.githubusercontent.com/kal429/kfupm-sorter-windows/main/ios/courses.txt`
    2. **Split Text** by **New Lines**.
    3. **Choose from List**, prompt `Pick your courses`, **Select Multiple** on.
    4. **Repeat with Each** item in Chosen Item:

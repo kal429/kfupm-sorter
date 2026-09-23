@@ -12,7 +12,7 @@
 
 ## الطريقة الأولى: التثبيت بلمسة واحدة (الأسهل)
 
-1. افتح زر **Get the Shortcut** في [صفحة التنزيل](https://kal429.github.io/kfupm-sorter/) من جهاز iPhone أو iPad. (إن ظهر على الزر «قريبًا» فاتبع الطريقة الثانية حاليًا.)
+1. افتح زر **Get the Shortcut** في [صفحة التنزيل](https://kal429.github.io/kfupm-sorter-windows/) من جهاز iPhone أو iPad. (إن ظهر على الزر «قريبًا» فاتبع الطريقة الثانية حاليًا.)
 2. اضغط **Add Shortcut** (إضافة الاختصار).
 3. افتح تطبيق الاختصارات واضغط **KFUPM Sorter** مرة واحدة، وسيطلب منك اختيار مجلد **Downloads** (iCloud Drive ← Downloads)، ثم تظهر القائمة.
 4. اختر **Pick my courses** وحدد مقرراتك (استعمل شريط البحث، مثل `coe 301`).
@@ -60,7 +60,7 @@
 4. **Choose from Menu** بعنوان `KFUPM Sorter` وأربعة خيارات: `Sort now` و`Pick my courses` و`Add a custom filter` و`Clear custom filters`.
 5. تحت **Sort now**: لا شيء (اتركه فارغًا).
 6. تحت **Pick my courses**:
-   1. **Get Contents of URL**: `https://raw.githubusercontent.com/kal429/kfupm-sorter/main/ios/courses.txt`
+   1. **Get Contents of URL**: `https://raw.githubusercontent.com/kal429/kfupm-sorter-windows/main/ios/courses.txt`
    2. **Split Text** حسب **New Lines**.
    3. **Choose from List** بعنوان `Pick your courses` مع تفعيل **Select Multiple**.
    4. **Repeat with Each** لكل عنصر مختار:

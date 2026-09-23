@@ -48,8 +48,8 @@ $IconPath     = Join-Path $AppDir 'app.ico'
 $TaskName     = 'KFUPM Sorter'
 $LegacyTask   = 'Downloads AutoSorter'      # the task the old zip version created
 $Version      = '1.2.0'
-$RepoUrl      = 'https://github.com/kal429/kfupm-sorter'
-$SiteUrl      = 'https://kal429.github.io/kfupm-sorter/'
+$RepoUrl      = 'https://github.com/kal429/kfupm-sorter-windows'
+$SiteUrl      = 'https://kal429.github.io/kfupm-sorter-windows/'
 
 $TypeGroups = @(
     @{ name='Documents';   exts=@('.pdf','.docx','.doc','.pptx','.ppt','.xlsx','.xls','.csv','.txt','.md','.rtf','.odt'); on=$true  },
