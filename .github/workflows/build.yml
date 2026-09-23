@@ -1,11 +1,11 @@
-# Builds KFUPM-Sorter-Setup.exe on GitHub's Windows machines.
-# Publish a release (for example v1.1.0) on GitHub and the installer is built and
-# attached to it, so the "latest" download link always works.
+# Checks that the Windows installer still builds whenever the app changes.
+# Releases are made by release.yml (push a tag such as v1.1.0).
 name: Build installer
 
 on:
-  release:
-    types: [published]
+  push:
+    branches: [main]
+    paths: ['src/**', 'installer/**', '.github/workflows/build.yml']
   workflow_dispatch:
 
 permissions:
@@ -42,9 +42,3 @@ jobs:
         with:
           name: KFUPM-Sorter-Setup
           path: installer/output/KFUPM-Sorter-Setup.exe
-
-      - name: Attach to the release
-        if: github.event_name == 'release'
-        uses: softprops/action-gh-release@v2
-        with:
-          files: installer/output/KFUPM-Sorter-Setup.exe

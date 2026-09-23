@@ -1,14 +1,13 @@
 # Builds the iOS / iPadOS app on GitHub's Macs (no Mac needed on your side).
 # The result is an unsigned KFUPM-Sorter-iOS.ipa. Install it with Sideloadly or
 # AltStore (they sign it with your Apple ID), or sign it with a developer account.
+# Releases are made by release.yml (push a tag such as v1.1.0).
 name: Build iOS app
 
 on:
   push:
     branches: [main]
     paths: ['ios-app/**', '.github/workflows/ios.yml']
-  release:
-    types: [published]
   workflow_dispatch:
 
 permissions:
@@ -56,9 +55,3 @@ jobs:
         with:
           name: KFUPM-Sorter-iOS
           path: ios-app/KFUPM-Sorter-iOS.ipa
-
-      - name: Attach to the release
-        if: github.event_name == 'release'
-        uses: softprops/action-gh-release@v2
-        with:
-          files: ios-app/KFUPM-Sorter-iOS.ipa

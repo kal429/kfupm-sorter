@@ -70,7 +70,7 @@ There is also a native **iPhone / iPad app** (SwiftUI) in [`ios-app/`](ios-app),
 
 ## Build the installer yourself
 
-Publishing a release on GitHub (for example `v1.1.0`) builds the installer on GitHub Actions and attaches `KFUPM-Sorter-Setup.exe` to that release automatically. See [`.github/workflows/build.yml`](.github/workflows/build.yml).
+Pushing a tag such as `v1.1.0` builds the Windows installer and the iPhone app on GitHub Actions and publishes both as a release automatically. See [`.github/workflows/release.yml`](.github/workflows/release.yml).
 
 To build it on your own PC:
 
