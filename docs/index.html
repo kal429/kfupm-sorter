@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KFUPM Sorter</title>
+<meta name="description" content="Keeps your Downloads folder sorted by KFUPM course, automatically. Windows app and iPhone / iPad / Mac shortcut.">
+<link rel="icon" href="icon-256.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --green: #008540; --forest: #00573F; --petrol: #003E51; --gold: #DAC961;
+    --stone: #AA8A00; --gray: #D9DAE4; --dark: #373938;
+    --bg: #F6F7F9; --card: #FFFFFF; --text: #1F2322; --muted: #5E6468;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.6 "Poppins", system-ui, sans-serif; }
+  html[lang="ar"] body { font-family: "IBM Plex Sans Arabic", "Poppins", system-ui, sans-serif; }
+  a { color: var(--green); }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+  /* header */
+  header { background: var(--green); color: #fff; border-bottom: 4px solid var(--gold); }
+  .bar { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+  .brand { display: flex; align-items: center; gap: 12px; font-weight: 600; font-size: 19px; color: #fff; text-decoration: none; }
+  .brand img { width: 34px; height: 34px; border-radius: 8px; background: #fff; }
+  .lang { display: flex; background: rgba(255,255,255,.14); border-radius: 999px; padding: 3px; }
+  .lang button { border: 0; background: transparent; color: #fff; font: inherit; font-size: 14px;
+                 padding: 5px 14px; border-radius: 999px; cursor: pointer; }
+  .lang button[aria-pressed="true"] { background: #fff; color: var(--green); font-weight: 600; }
+
+  /* hero */
+  .hero { background: linear-gradient(160deg, var(--green) 0%, var(--forest) 55%, var(--petrol) 100%); color: #fff; }
+  .hero .wrap { display: grid; grid-template-columns: 1.1fr .9fr; gap: 40px; align-items: center; padding-top: 56px; padding-bottom: 64px; }
+  .hero h1 { font-size: clamp(30px, 5vw, 46px); line-height: 1.15; margin: 0 0 14px; font-weight: 700; }
+  .hero h1 span { color: var(--gold); }
+  .hero p.lead { font-size: 18px; color: #DDEFE5; margin: 0 0 28px; max-width: 34em; }
+  .cta { display: flex; flex-wrap: wrap; gap: 12px; }
+  .btn { display: inline-flex; align-items: center; gap: 10px; padding: 14px 22px; border-radius: 12px;
+         font-weight: 600; text-decoration: none; font-size: 16px; transition: transform .12s, box-shadow .12s; }
+  .btn:hover { transform: translateY(-1px); box-shadow: 0 8px 22px rgba(0,0,0,.18); }
+  .btn svg { width: 20px; height: 20px; flex: none; }
+  .btn-gold { background: var(--gold); color: var(--petrol); }
+  .btn-ghost { background: rgba(255,255,255,.12); color: #fff; border: 1px solid rgba(255,255,255,.35); }
+  .meta { margin-top: 14px; font-size: 13.5px; color: #BFE0CD; }
+
+  /* folder mock */
+  .hero .wrap > * { min-width: 0; }
+  .tag { overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+  .mock { background: #fff; color: var(--text); border-radius: 16px; padding: 18px 20px;
+          box-shadow: 0 24px 60px rgba(0,0,0,.28); font-size: 14px; direction: ltr; text-align: left; }
+  .mock .top { display: flex; gap: 6px; margin-bottom: 12px; }
+  .mock .top i { width: 10px; height: 10px; border-radius: 50%; background: var(--gray); }
+  .row { display: flex; align-items: center; gap: 8px; padding: 5px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .row .f { width: 18px; height: 14px; border-radius: 3px; background: var(--gold); flex: none; position: relative; }
+  .row .f.g { background: #7CC49A; } .row .f.p { background: #8FB3BF; }
+  .row.in { padding-left: 26px; } .row.in2 { padding-left: 52px; color: var(--muted); font-size: 13px; }
+  .row b { font-weight: 600; }
+  .tag { margin-left: auto; font-size: 11.5px; padding: 1px 8px; border-radius: 999px; background: #E6F3EC; color: var(--forest); }
+
+  /* sections */
+  section { padding: 64px 0; }
+  h2 { font-size: 28px; margin: 0 0 8px; color: var(--petrol); }
+  .sub { color: var(--muted); margin: 0 0 32px; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+  .card { background: var(--card); border: 1px solid var(--gray); border-radius: 14px; padding: 22px; }
+  .card h3 { margin: 10px 0 6px; font-size: 17px; color: var(--forest); }
+  .card p { margin: 0; color: var(--muted); font-size: 15px; }
+  .ico { width: 40px; height: 40px; border-radius: 10px; background: #E6F3EC; display: grid; place-items: center; }
+  .ico svg { width: 22px; height: 22px; stroke: var(--green); }
+
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .steps { counter-reset: s; list-style: none; padding: 0; margin: 0; }
+  .steps li { position: relative; padding-inline-start: 44px; margin-bottom: 16px; }
+  .steps li::before { counter-increment: s; content: counter(s); position: absolute; inset-inline-start: 0; top: 0;
+                      width: 30px; height: 30px; border-radius: 50%; background: var(--green); color: #fff;
+                      display: grid; place-items: center; font-weight: 600; font-size: 14px; }
+  .note { background: #FBF8E6; border: 1px solid #EFE4A6; border-radius: 12px; padding: 14px 16px; font-size: 14.5px; color: #5A4B00; margin-top: 8px; }
+  .platform { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .platform h3 { margin: 0; font-size: 20px; color: var(--petrol); }
+  .platform svg { width: 26px; height: 26px; fill: var(--green); }
+  .card .btn { margin-top: 10px; }
+  .btn-green { background: var(--green); color: #fff; }
+  .btn-line { background: #fff; color: var(--petrol); border: 1px solid var(--gray); }
+  .btn.disabled { opacity: .55; pointer-events: none; }
+
+  footer { background: var(--petrol); color: #BFD3D9; padding: 30px 0; font-size: 14px; }
+  footer a { color: var(--gold); }
+  footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; }
+
+  [data-ar] { } html[lang="ar"] .mock { direction: ltr; }
+  @media (max-width: 860px) {
+    .hero .wrap { grid-template-columns: minmax(0,1fr); padding-top: 36px; }
+    .grid { grid-template-columns: 1fr 1fr; }
+    .two { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .grid { grid-template-columns: 1fr; }
+    .row.in2 { padding-left: 34px; } .row.in { padding-left: 16px; }
+    .btn { width: 100%; justify-content: center; }
+    section { padding: 44px 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap bar">
+    <a class="brand" href="#"><img src="icon-256.png" alt="">KFUPM Sorter</a>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-lang="en" aria-pressed="true">English</button>
+      <button type="button" data-lang="ar" aria-pressed="false">العربية</button>
+    </div>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div>
+      <h1 data-i="h1">Your downloads, <span>sorted by course.</span></h1>
+      <p class="lead" data-i="lead">Pick your courses from the official KFUPM catalog once. Every lecture, lab and homework file you download goes to its course folder on its own.</p>
+      <div class="cta">
+        <a class="btn btn-gold" id="dlWin" href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 5.5 10.5 4.5v7H3zM11.5 4.3 21 3v8.5h-9.5zM3 12.5h7.5v7L3 18.5zM11.5 12.5H21V21l-9.5-1.3z"/></svg>
+          <span data-i="btnWin">Download for Windows</span>
+        </a>
+        <a class="btn btn-ghost" href="#apple">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg>
+          <span data-i="btnApple">iPhone, iPad &amp; Mac</span>
+        </a>
+      </div>
+      <div class="meta" data-i="meta">Free &middot; open source &middot; Windows 10 / 11 &middot; no admin rights needed</div>
+    </div>
+    <div class="mock" aria-hidden="true">
+      <div class="top"><i></i><i></i><i></i></div>
+      <div class="row"><span class="f p"></span><b>Downloads</b></div>
+      <div class="row in"><span class="f"></span><b>261</b></div>
+      <div class="row in2"><span class="f g"></span>COE 301 <span class="tag">Lecture_T261_COE_301_Ch3.pdf</span></div>
+      <div class="row in2"><span class="f g"></span>EE 236 <span class="tag">261-EE236-L2.pdf</span></div>
+      <div class="row in2"><span class="f g"></span>ENGL 214 <span class="tag">ENGL214_Report.docx</span></div>
+      <div class="row in"><span class="f"></span><b>Internship</b> <span class="tag">Internship_Offer_Letter.pdf</span></div>
+      <div class="row in"><span class="f p"></span>Documents</div>
+      <div class="row in"><span class="f p"></span>Videos</div>
+      <div class="row in"><span class="f p"></span>Installers <span class="tag">setup.exe</span></div>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="wrap">
+    <h2 data-i="featH">What it does</h2>
+    <p class="sub" data-i="featSub">Built by a KFUPM student for KFUPM students.</p>
+    <div class="grid">
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5z"/><path d="M4 19.5A2.5 2.5 0 0 0 6.5 22H20v-5"/></svg></div>
+        <h3 data-i="f1h">The official catalog</h3><p data-i="f1p">2,123 undergraduate courses from 58 departments, taken from bulletin.kfupm.edu.sa. One button refreshes it every term.</p></div>
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="m8 12 3 3 5-6"/></svg></div>
+        <h3 data-i="f2h">Checkboxes, not typing</h3><p data-i="f2p">Filter by department, search by code or title, tick your courses. The matching keywords are generated for you.</p></div>
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></div>
+        <h3 data-i="f3h">Smart matching</h3><p data-i="f3p">COE 301 catches COE301_Lab.pdf, coe-301 HW.docx and 261-COE301-L1.pdf, but never COE 3011.</p></div>
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 3H2l8 9.5V19l4 2v-8.5z"/></svg></div>
+        <h3 data-i="f4h">Your own filters</h3><p data-i="f4p">Internship, a club, a side project: add a folder and a few keywords, like "Internship" with "internship, coop".</p></div>
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18M3 12h18M3 17h12"/></svg></div>
+        <h3 data-i="f5h">Everything else, by type</h3><p data-i="f5p">Files that match no course go to Documents, Images, Videos, Installers, Archives and more.</p></div>
+      <div class="card"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3 data-i="f6h">Safe by design</h3><p data-i="f6p">It never deletes and never overwrites. Unfinished downloads are left alone. Nothing leaves your device.</p></div>
+    </div>
+  </div>
+</section>
+
+<section style="background:#fff;border-top:1px solid var(--gray);border-bottom:1px solid var(--gray)">
+  <div class="wrap">
+    <h2 data-i="getH">Get it</h2>
+    <p class="sub" data-i="getSub">Two minutes to set up. Then you can forget about it.</p>
+    <div class="two">
+      <div class="card" id="windows">
+        <div class="platform"><svg viewBox="0 0 24 24"><path d="M3 5.5 10.5 4.5v7H3zM11.5 4.3 21 3v8.5h-9.5zM3 12.5h7.5v7L3 18.5zM11.5 12.5H21V21l-9.5-1.3z"/></svg><h3>Windows</h3></div>
+        <ol class="steps">
+          <li data-i="w1">Download <b>KFUPM-Sorter-Setup.exe</b> and run it. No administrator rights are needed.</li>
+          <li data-i="w2">Tick your courses and add any custom filters.</li>
+          <li data-i="w3">Press <b>Save</b> and turn on automatic sorting. It checks your Downloads quietly every minute and starts with Windows.</li>
+        </ol>
+        <a class="btn btn-green" href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe" data-i="btnWin2">Download for Windows</a>
+        <div class="note" data-i="smart"><b>"Windows protected your PC"?</b> The installer is not code-signed yet, so Windows shows this for any new app. Click <b>More info</b>, then <b>Run anyway</b>. Every line of code is public on GitHub.</div>
+      </div>
+      <div class="card" id="apple">
+        <div class="platform"><svg viewBox="0 0 24 24"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg><h3>iPhone, iPad &amp; Mac</h3></div>
+        <ol class="steps">
+          <li data-i="a1">Open this page on your iPhone or iPad and tap <b>Get the Shortcut</b>, then <b>Add Shortcut</b>.</li>
+          <li data-i="a2">Run it once from the Shortcuts app, choose your Downloads folder, then <b>Pick my courses</b>.</li>
+          <li data-i="a3">Add an automation: <b>When Safari is closed → run KFUPM Sorter</b>. The guide shows how.</li>
+        </ol>
+        <a class="btn btn-green" id="getShortcut" href="#" data-i="btnShortcut">Get the Shortcut</a>
+        <a class="btn btn-line" id="guide" href="https://github.com/kal429/kfupm-sorter/blob/main/docs/ios-shortcut.md" data-i="btnGuide">Step-by-step guide</a>
+        <div class="note" data-i="appleNote">Apple devices use Apple's own Shortcuts app, so there is nothing to install from outside the App Store. Shortcuts sync over iCloud to your iPad and Mac.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div data-i="disc">An independent student project. Not affiliated with or endorsed by King Fahd University of Petroleum and Minerals.</div>
+    <div><a href="https://github.com/kal429/kfupm-sorter">GitHub</a> &middot; MIT License</div>
+  </div>
+</footer>
+
+<script>
+  // After building the shortcut: iPhone Shortcuts app -> long-press it -> Share -> Copy iCloud Link, and paste it here.
+  var SHORTCUT_URL = '';
+
+  var AR = {
+    h1: 'تنزيلاتك <span>مرتبة حسب المقرر.</span>',
+    lead: 'اختر مقرراتك من الدليل الرسمي للجامعة مرة واحدة، وسيُنقل كل ملف تنزّله من محاضرات ومعامل وواجبات إلى مجلد مقرره تلقائيًا.',
+    btnWin: 'تنزيل لنظام Windows',
+    btnApple: 'iPhone وiPad وMac',
+    meta: 'مجاني · مفتوح المصدر · Windows 10 / 11 · لا يحتاج صلاحيات المسؤول',
+    featH: 'ماذا يفعل؟',
+    featSub: 'صنعه طالب في جامعة الملك فهد لطلاب الجامعة.',
+    f1h: 'الدليل الرسمي للمقررات',
+    f1p: '2,123 مقررًا جامعيًا من 58 قسمًا، مأخوذة من bulletin.kfupm.edu.sa، ويُحدَّث الدليل بزر واحد كل فصل.',
+    f2h: 'اختيار بالنقر لا بالكتابة',
+    f2p: 'صفِّ المقررات حسب القسم، أو ابحث بالرمز أو الاسم، ثم حدد مقرراتك، وتُولَّد الكلمات المفتاحية تلقائيًا.',
+    f3h: 'مطابقة ذكية',
+    f3p: 'مقرر COE 301 يلتقط COE301_Lab.pdf و coe-301 HW.docx و 261-COE301-L1.pdf، ولا يلتقط COE 3011 أبدًا.',
+    f4h: 'فلاترك الخاصة',
+    f4p: 'تدريب أو نادٍ أو مشروع جانبي: أضف اسم مجلد وبعض الكلمات المفتاحية، مثل "Internship" مع "internship, coop".',
+    f5h: 'وما تبقى حسب النوع',
+    f5p: 'تُرتَّب الملفات التي لا تطابق أي مقرر في مجلدات المستندات والصور ومقاطع الفيديو وبرامج التثبيت والملفات المضغوطة وغيرها.',
+    f6h: 'آمن في تصميمه',
+    f6p: 'لا يحذف ولا يستبدل أي ملف، ويترك التنزيلات غير المكتملة، ولا يغادر جهازك أي شيء.',
+    getH: 'احصل عليه',
+    getSub: 'دقيقتان للإعداد، ثم يعمل وحده.',
+    w1: 'نزّل <b>KFUPM-Sorter-Setup.exe</b> وشغّله، ولا حاجة إلى صلاحيات المسؤول.',
+    w2: 'حدد مقرراتك، وأضف ما تشاء من الفلاتر المخصصة.',
+    w3: 'اضغط <b>حفظ</b> وفعّل الترتيب التلقائي، فيفحص مجلد التنزيلات بهدوء كل دقيقة ويبدأ مع تشغيل Windows.',
+    btnWin2: 'تنزيل لنظام Windows',
+    smart: '<b>ظهرت رسالة "Windows protected your PC"؟</b> برنامج التثبيت غير موقَّع رقميًا بعد، ولذلك يعرض Windows هذه الرسالة لأي برنامج جديد. اضغط <b>More info</b> ثم <b>Run anyway</b>. والشيفرة كاملة منشورة على GitHub.',
+    a1: 'افتح هذه الصفحة من iPhone أو iPad واضغط <b>Get the Shortcut</b> ثم <b>Add Shortcut</b>.',
+    a2: 'شغّله مرة من تطبيق الاختصارات، واختر مجلد التنزيلات، ثم <b>Pick my courses</b>.',
+    a3: 'أضف أتمتة: <b>عند إغلاق Safari ← شغّل KFUPM Sorter</b>، والدليل يشرح الطريقة.',
+    btnShortcut: 'احصل على الاختصار',
+    btnGuide: 'الدليل خطوة بخطوة',
+    appleNote: 'تستعمل أجهزة Apple تطبيق الاختصارات الخاص بها، فلا حاجة إلى تثبيت أي شيء من خارج App Store، وتُزامَن الاختصارات عبر iCloud مع iPad وMac.',
+    disc: 'مشروع طلابي مستقل، غير تابع لجامعة الملك فهد للبترول والمعادن ولا معتمد منها.',
+    soon: 'الاختصار: قريبًا'
+  };
+  var EN = { soon: 'Shortcut: coming soon' };
+  document.querySelectorAll('[data-i]').forEach(function (el) { EN[el.dataset.i] = el.innerHTML; });
+
+  var guideEn = 'https://github.com/kal429/kfupm-sorter/blob/main/docs/ios-shortcut.md';
+  var guideAr = 'https://github.com/kal429/kfupm-sorter/blob/main/docs/ios-shortcut.ar.md';
+
+  function setLang(lang) {
+    var t = lang === 'ar' ? AR : EN;
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+    document.querySelectorAll('[data-i]').forEach(function (el) { if (t[el.dataset.i] != null) el.innerHTML = t[el.dataset.i]; });
+    document.querySelectorAll('.lang button').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.lang === lang); });
+    document.getElementById('guide').href = lang === 'ar' ? guideAr : guideEn;
+    var g = document.getElementById('getShortcut');
+    if (SHORTCUT_URL) { g.href = SHORTCUT_URL; g.classList.remove('disabled'); }
+    else { g.textContent = t.soon; g.classList.add('disabled'); }
+    try { localStorage.setItem('kfupm-sorter-lang', lang); } catch (e) {}
+  }
+  document.querySelectorAll('.lang button').forEach(function (b) {
+    b.addEventListener('click', function () { setLang(b.dataset.lang); });
+  });
+  var saved = null;
+  try { saved = localStorage.getItem('kfupm-sorter-lang'); } catch (e) {}
+  setLang(saved === 'ar' ? 'ar' : 'en');
+</script>
+</body>
+</html>

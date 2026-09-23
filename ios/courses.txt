@@ -1,0 +1,2123 @@
+ACCT 110 - Introduction to Financial Accounting
+ACCT 201 - Principles of Accounting I
+ACCT 202 - Principles of Accounting II
+ACCT 210 - Introduction to Managerial Accounting
+ACCT 300 - Accounting Information Systems
+ACCT 301 - Intermediate Accounting I
+ACCT 302 - Intermediate Accounting II
+ACCT 303 - Computer Control and Audit
+ACCT 304 - International Accounting
+ACCT 305 - Accounting for Governmental & Non-Profit Entities
+ACCT 306 - Zakat & Income Tax Accounting
+ACCT 307 - Islamic Financial Jurisprudence
+ACCT 311 - Auditing
+ACCT 314 - Computer Control and Audit
+ACCT 321 - Data Analytics for Accounting
+ACCT 350 - Begin Cooperative Work
+ACCT 351 - Cooperative Work
+ACCT 352 - End Cooperative Work
+ACCT 398 - Internship
+ACCT 399 - Summer Training
+ACCT 401 - Cost Accounting
+ACCT 402 - Managerial Accounting
+ACCT 403 - Advanced Accounting
+ACCT 404 - Auditing
+ACCT 405 - Accounting Theory & Research
+ACCT 406 - Internal Auditing
+ACCT 407 - Financial Statement Analysis
+ACCT 408 - Zakat and Business Tax Accounting
+ACCT 409 - International BusinessTaxation
+ACCT 410 - Costing, Budgeting & Performance Analysis
+ACCT 411 - Cost Management & Management Control
+ACCT 420 - Petroleum Accounting
+ACCT 421 - Oil & Gas Accounting
+ACCT 477 - Senior Project I
+ACCT 478 - Senior Project II
+ACCT 494 - Undergraduate Thesis I
+ACCT 495 - Special topics in Accounting
+ACCT 496 - Undergraduate Thesis II
+ACCT 499 - Special topics in Accounting
+ACF 398 - Internship
+ACF 399 - Summer Training
+ACF 411 - Senior Project I
+ACF 412 - Senior Project II
+AE 211 - Fundamentals of Thermo-Fluids
+AE 220 - Introduction to Aerospace Engineering
+AE 221 - Introduction to Aerospace Engineering
+AE 222 - Introduction to Aerospace Engineering
+AE 223 - Fluid Mechanics Lab
+AE 228 - Introduction to AE Structures and Materials
+AE 230 - AE Vehicle Performance
+AE 240 - AE Design
+AE 312 - Fundamentals of AE Design
+AE 313 - AE Systems and Control
+AE 314 - Systems and Control
+AE 315 - Systems and Control Lab
+AE 320 - Aerospace Engineering Lab I
+AE 321 - Structures and Materials Lab
+AE 325 - Gas Dynamics I
+AE 328 - Flight Structures I
+AE 333 - Aerodynamics I
+AE 350 - Begin Cooperative Work
+AE 351 - Aerospace Engineering Cooperative Work
+AE 352 - End Cooperative Work
+AE 355 - Experimental & Computational Methods for Aerospace Engineering
+AE 357 - AE Numerical Methods Lab
+AE 358 - Computer Aided Engineering Lab
+AE 398 - Aerospace Engineering Internship
+AE 399 - Summer Training
+AE 401 - Aerospace Systems and Maintenance
+AE 402 - Aerospace Avionics
+AE 403 - Aerospace Materials
+AE 410 - Astronautics
+AE 411 - Senior Design Project I
+AE 412 - Senior Design Project II
+AE 414 - Flight and Air Traffic Control
+AE 415 - Flight and Aviation Safety
+AE 416 - Flight and Aviation Management
+AE 417 - Flight and Aviation Law
+AE 418 - Flight and Aviation Economics
+AE 420 - Aerospace Engineering Lab I
+AE 421 - Aerospace Engineering Lab
+AE 422 - Flight Propulsion I
+AE 423 - Aerodynamic and Propulsion Lab
+AE 426 - Flight Dynamics I
+AE 427 - Aerospace Vehicle Design
+AE 428 - Flight Structures II
+AE 429 - Gas Dynamics II
+AE 433 - Aerodynamics II
+AE 442 - Flight Propulsion II
+AE 446 - Flight Dynamics II
+AE 448 - Fundamentals of Helicopter
+AE 449 - Fundamentals of Unmanned Aerial Systems
+AE 450 - Computational Methods for Aerospace Engineering
+AE 454 - UAS Design and Integration
+AE 461 - Spacecraft Guidance, Navigation, and Control
+AE 490 - Special Topics in Aerospace Engineering I
+AE 491 - Special Topics in Aerospace Engineering II
+AE 494 - Undergraduate Thesis I
+AE 496 - Undergraduate Thesis II
+AE 497 - Undergraduate Research
+AE 499 - Special Topics in Aerospace Engineering
+AISC 398 - Internship
+AISC 399 - Summer Training
+AISC 411 - Senior Project I
+AISC 412 - Senior Project II
+ARC 100 - Architectural Graphics
+ARC 101 - Design Studio-I: Design Principles
+ARC 102 - Design Studio I
+ARC 103 - Design Studio II
+ARC 105 - Engineering Graphics
+ARC 110 - History of Architecture-I
+ARC 112 - History of Architecture-II
+ARC 113 - Architectural Communication I
+ARC 114 - Architectural Communication II
+ARC 121 - Hisrory of Architecture I
+ARC 122 - Historyof Architecture II
+ARC 124 - Computer Aided Architectural Design
+ARC 132 - Man and Built Environment
+ARC 202 - Design Studio-II Space & Order
+ARC 203 - Design Studio-III Site, Context & Form
+ARC 204 - Architecrural Design Studio lll
+ARC 205 - Architectural Design Studio lV
+ARC 210 - History of Architecture-III
+ARC 213 - Digital Communication I
+ARC 214 - Digital Communication ll
+ARC 221 - Structures in Architecture-I
+ARC 222 - Structures in Architecture-II
+ARC 225 - Virtual Reality in Architecture
+ARC 226 - Theory of Archirecrure I
+ARC 227 - Theory of Architecture II
+ARC 228 - Architecture of Saudi Arabia
+ARC 229 - Theory of Architecture II
+ARC 231 - Structure in Architecture I
+ARC 232 - Structure in Architecture II
+ARC 251 - Introduction to Urban Design Concepts
+ARC 281 - Architecture of Saudi Arabia
+ARC 300 - Workshop/Summer Internship
+ARC 304 - Design Studio-IV Analysis and Synthesis
+ARC 305 - Design Studio-V: Virtual Design Studio
+ARC 306 - Architectural Design Studio V
+ARC 307 - Architectural Design Studio VI
+ARC 308 - Community Design Exploration
+ARC 309 - international Studio
+ARC 313 - Theory of Architecture-I
+ARC 314 - Theory of Architecture-II
+ARC 315 - Perception, Geometry and Color in Architecture
+ARC 316 - Digital Architectural Photograph
+ARC 319 - Special Topics in Computer Applications
+ARC 323 - Structures in Architecture-III
+ARC 329 - Special Topics in lslamic Architecture
+ARC 341 - Freehand Drawings
+ARC 342 - Computer Presentation Techniques
+ARC 343 - Creative Design Workshop
+ARC 344 - Architectural Photography
+ARC 345 - Working Drawings
+ARC 349 - Local Materials in Architecture
+ARC 353 - Housing Policy and Design
+ARC 354 - Landscape Design
+ARC 355 - Human Factors in Architecture
+ARC 356 - Principles of Sustainable Design
+ARC 357 - Urban Design
+ARC 358 - Real Estate and Housing Development
+ARC 359 - Design Determinants of Arid Region
+ARC 360 - Advanced Topics in Sustainable Architecture
+ARC 361 - Introduction to Landscape Plants
+ARC 362 - Introduction to Landscape Design
+ARC 363 - Introduction to Ecological Analysis
+ARC 364 - Specific Open Spaces Design Workshop
+ARC 371 - Introduction to Interior Architecture
+ARC 372 - Furnishing Design
+ARC 373 - Commercial Interiors
+ARC 374 - History of Interior Architecture
+ARC 399 - Summer Training
+ARC 400 - Senior Project Preparation and Programming
+ARC 401 - Senior Project Preparation and Programming
+ARC 402 - Architectural Design Studio VII
+ARC 403 - Architectural Design Studio VIII: Senior Project
+ARC 405 - Architectural Design StudioVII
+ARC 406 - Design Studio VI:Comprehensive Design Project
+ARC 407 - Construction Documents
+ARC 408 - Senior Project
+ARC 409 - Architectural Design Studio Vlll: Senior Project
+ARC 416 - Specific Topics on Islamic Architecture
+ARC 419 - Parametric Design
+ARC 426 - Professional Practice
+ARC 429 - Special Topics in Regional Architecture
+ARC 431 - Safety in Building Design
+ARC 435 - Design Determinants for Arid Regions
+ARC 440 - Architectural Conservation and Preservation
+ARC 442 - Knowledge-Based Systems in Architecture
+ARC 449 - Special Topics in Computer Aided Design
+ARC 453 - Urban Design Theory
+ARC 454 - Methods of Urban Design Analysis
+ARC 455 - Critical and Creative Thinking for Designers
+ARC 456 - Advanced Sustainable Design Workshop
+ARC 457 - Topics in Mosque Architecture
+ARC 458 - Advanced Topics in Housing
+ARC 459 - Special Topics in Urban Design
+ARC 461 - Special Topics in Islamic Architecture
+ARC 462 - Special Topics in Local and Regional Architecture
+ARC 463 - Architectural Conservation
+ARC 480 - Creative Design Workshop
+ARC 481 - Introduction to Interior Design
+ARC 482 - Socio-Cultural Factors in Design
+ARC 483 - Architectural Conservation and Preservation
+ARC 489 - Special Topics in Regional Architecture
+ARC 491 - Professional Practice
+ARC 492 - Professional Practice and Management
+ARC 499 - Special Topics in Architecture
+ARE 100 - Introduction to Architectural Engineering
+ARE 101 - Architectural Graphics
+ARE 201 - Architectural Graphics
+ARE 202 - Architectural Design & History
+ARE 211 - Building Materials
+ARE 212 - Construction Systems
+ARE 220 - Fundamentals of Thermal Science
+ARE 221 - Computer Applications in Building Design
+ARE 222 - Computer Applications in Building Design
+ARE 230 - Building Materials and Construction Systems
+ARE 301 - Architectural Design
+ARE 303 - Working Drawings
+ARE 320 - Architectural Acoustics
+ARE 322 - Building Mechanical Systems
+ARE 323 - Principles of Heating, Ventilating, and Air-Conditioning
+ARE 325 - Building Illumination
+ARE 328 - Architectural Acoustics & Illumination
+ARE 330 - Construction Management and Estimating
+ARE 331 - Construction Economy and Equipment
+ARE 342 - Principles of Heating, Ventilating, and Air-Conditioning
+ARE 345 - Heating,Ventilating & AC
+ARE 350 - Begin Cooperative Work
+ARE 351 - Cooperative Work
+ARE 352 - End Cooperative Work
+ARE 398 - Internship
+ARE 399 - Summer Training
+ARE 400 - Senior Design Project
+ARE 410 - Introduction to Senior Design Project
+ARE 411 - Senior Design Project I
+ARE 412 - Senior Design Project II
+ARE 413 - Construction Management
+ARE 416 - Planning and Design of Structural Systems
+ARE 417 - Innovative Building Structures
+ARE 418 - Structural Design of High-Rise Buildings
+ARE 420 - Solar Energy in Buildings
+ARE 421 - Building Energy Analysis
+ARE 422 - Advanced Building Envelopes
+ARE 423 - Building Performance Evaluation
+ARE 424 - Indoor Air Quality and Ventilation
+ARE 425 - Architectural Acoustics
+ARE 426 - Room Acoustics
+ARE 427 - Noise Control in Buildings
+ARE 428 - Design of Plumbing and Fire Suppression Systems
+ARE 429 - Safety and Security Systems in Buildings
+ARE 430 - Contracts and Specifications
+ARE 431 - Building Economy
+ARE 432 - Construction Planning and Scheduling
+ARE 433 - Building Cost Estimation
+ARE 434 - Building Economy
+ARE 435 - Construction Safety
+ARE 436 - Fire Safety Management
+ARE 437 - Decision Analysis and Modeling
+ARE 438 - Facilities Planning and Management
+ARE 439 - Introduction to Building Maintenance Management
+ARE 440 - Solar Energy in Buildings
+ARE 442 - Building Energy Analysis
+ARE 443 - Computer-Aided Building Design
+ARE 444 - Knowledge-Based Systems in Buildings
+ARE 445 - Artificial Lighting Systems Design
+ARE 446 - Daylighting Analysis and Design
+ARE 447 - Automation and Control of Building Systems
+ARE 450 - Artificial Lighting Systems
+ARE 452 - Daylighting Analysis & Design
+ARE 455 - Room Acoustics
+ARE 456 - Noise Control in Buildings
+ARE 457 - Introduction to Building Maintenance Management
+ARE 458 - Quantitative Methods in Construction Management
+ARE 459 - Contracts and Specifications
+ARE 460 - Green and Sustainable Building
+ARE 461 - Applications of AI in Smart Buildings
+ARE 463 - Sustainable Energy Solutions
+ARE 465 - Construction Processes and Methods
+ARE 466 - Applied Machine Learning in Construction
+ARE 490 - Special Topics in Architectural Engineering
+ARE 491 - Sp. Topics in Fire Safety Mgt.
+ARE 492 - Mosque Systems and Operation
+ARE 497 - Undergraduate Research
+AS 201 - Financial Mathematics
+AS 250 - Quantitative Financial Models for Actuaries
+AS 251 - Maths of Financial Derivatives
+AS 288 - Actuarial Science Problem Lab I
+AS 289 - Actuarial Science Problem Lab I
+AS 322 - Numerical Methods for Actuaries
+AS 350 - Begin Cooperative Work
+AS 351 - Cooperative Work
+AS 352 - End Cooperative Work
+AS 380 - Actuarial Contingencies I
+AS 381 - Actuarial Contingencies I
+AS 388 - Actuarial Science Prob Lab II
+AS 389 - Actuarial Science Problem Lab II
+AS 398 - Internship
+AS 411 - Senior Project I
+AS 412 - Senior Project II
+AS 450 - Risk Modeling
+AS 460 - Enterprise Risk Analysis
+AS 470 - Models for Risk Managing Financial Options and Derivatives
+AS 475 - Survival Models for Actuaries
+AS 476 - Survival Models for Actuaries
+AS 481 - Actuarial Contingencies II
+AS 482 - Actuarial Contingencies II
+AS 483 - Actuarial Risk Theory and Credibility
+AS 484 - Actuarial Risk Theory and Credibility
+AS 490 - Topics in Actuarial Science and Financial Mathematics I
+AS 491 - Topics in Actuarial Science and Financial Mathematics II
+AS 494 - Undergraduate Thesis I
+AS 496 - Undergraduate Thesis II
+AS 498 - Topics in AS & Financial Math
+BAI 220 - Business Information & Digital Systems
+BAI 221 - Business Analytics Foundations
+BAI 300 - Applied AI for Business
+BAI 311 - Data Visualization & Storytelling
+BAI 312 - Business Intelligence Systems
+BAI 321 - Performance Analytics with Artificial Intelligence
+BAI 331 - Target Setting & Performance Management
+BAI 332 - Workforce Analytics and Artificial Intelligence
+BAI 398 - Internship
+BAI 399 - Summer Training
+BAI 404 - Cybersecurity in Business
+BAI 411 - Senior Project I
+BAI 412 - Senior Project II
+BAI 420 - Performance Data Governance
+BAI 421 - Responsible AI for Decision Support
+BAI 422 - Platform Performance Analytics
+BAI 431 - Analytics Strategy & Performance Transformation
+BAI 432 - Risk & Compliance Analytics
+BAI 433 - Process Performance Analytics
+BAI 434 - Experiment Design & Causal Analytics
+BAI 460 - Case studies in Business Analytics & AI
+BIOE 201 - Biology for Engineers
+BIOE 202 - Biology for Engineers Lab
+BIOE 211 - Fundamentals of Bioengineering
+BIOE 303 - Cell Biology
+BIOE 311 - Bioinstrumentation
+BIOE 312 - Bioinstrumentation lab
+BIOE 316 - Ethics and Safety in Bioengineering
+BIOE 320 - Molecular Biology
+BIOE 321 - Cell and Molecular Biology Lab
+BIOE 337 - Applied Physiology
+BIOE 355 - Biomimicry Design and Modeling Lab
+BIOE 370 - Bioengineering Thermodynamics
+BIOE 377 - Marine Pollution & Mitigation
+BIOE 398 - Internship
+BIOE 399 - Summer Training
+BIOE 411 - Senior Design Project I
+BIOE 412 - Senior Design Project II
+BIOE 434 - Introduction to Biosensors
+BIOE 440 - Molecular Biotechnology
+BIOE 445 - Enzyme Engineering
+BIOE 455 - Transport Phenomenon in Bioengineering
+BIOE 460 - Biomaterials
+BIOE 475 - Cell Biology and Bioelectricity
+BIOE 480 - Biomechanics
+BIOE 483 - Genomics
+BIOE 484 - Introduction to Genetic Engineering
+BIOE 485 - Electrophysiology
+BIOE 486 - Nanobiotechnology
+BIOE 487 - Bioinformatics
+BIOE 488 - Introduction to Modeling of Biological Systems
+BIOE 490 - Special Topics in Bioengineering I
+BIOE 494 - Undergraduate Thesis I
+BIOE 496 - Undergraduate Thesis II
+BIOL 101 - Introduction to Biology
+BIOL 102 - Ecology and Environment
+BIOL 201 - Microbiology
+BIOL 202 - Physiology
+BIOL 233 - Biology for Engineers
+BIOL 301 - Biochemistry
+BUS 200 - Business & Entrepreneurship
+BUS 300 - Career Essentials
+CE 100 - Intro to Civil Engineering
+CE 101 - Engineering Graphics
+CE 201 - Statics
+CE 202 - Statics & Strength of Materials
+CE 203 - Structural Mechanics I
+CE 204 - Civil Engineering Materials
+CE 206 - Civil Engineering Materials Laboratory
+CE 211 - Descriptive and Computer Graphics
+CE 213 - Computer Graphics
+CE 215 - Computer Graphics
+CE 216 - Computer Graphics
+CE 230 - Engineering Fluid Mechanics
+CE 260 - Surveying I
+CE 261 - Surveying I
+CE 262 - Surveying
+CE 303 - Structural Materials
+CE 305 - Structural Analysis I
+CE 312 - Introduction to CE Design
+CE 315 - Reinforced Concrete I
+CE 317 - Computer Methods in Civil Engineering
+CE 318 - Numerical & Statistical Methodes in Civil Engineering
+CE 330 - Environmental Engineering Principles
+CE 331 - Engineering Hydrology I
+CE 332 - Engineering Hydrology and Hydraulics
+CE 335 - Engineering Hydrology
+CE 340 - Transportation Engineering
+CE 341 - Transportation Engineering
+CE 343 - Transportation Engineering Lab
+CE 350 - Begin Cooperative Work
+CE 351 - Civil Engineering Cooperative Work
+CE 352 - End Cooperative Work
+CE 353 - Geotechnical Engineering I
+CE 354 - Introduction to Geotechnical Engineering
+CE 356 - Geotechnical Engineering Lab
+CE 370 - Water & Wastewater Engineering
+CE 375 - Environmental Chemistry Laboratory
+CE 398 - Internship
+CE 399 - Summer Training
+CE 401 - Concrete Technology
+CE 402 - Durability, Evaluation and Repair of Concrete Structures
+CE 403 - Characterization of Marine Environment
+CE 404 - Climate Engineering
+CE 405 - Structural Analysis II
+CE 406 - Structural Mechanics II
+CE 407 - Introduction to Marine Structures and Materials
+CE 408 - Steel Design I
+CE 409 - Assessment and Maintenance of Marine Structures
+CE 410 - Senior Design Project I
+CE 411 - Senior Design Project
+CE 412 - Senior Design Project II
+CE 413 - Applied Design Project
+CE 415 - Reinforced Concrete II
+CE 417 - Reinforced Concrete III
+CE 418 - Steel Design II
+CE 420 - Construction Engineering
+CE 421 - Construction Methods and Mgt
+CE 422 - Construction Management and Economy
+CE 430 - Engineering Hydrology II
+CE 431 - Hydrologic Engineering
+CE 432 - Hydraulic Engineering
+CE 433 - Ground Water Engineering
+CE 434 - Irrigation Engineering
+CE 435 - Theory and Design of Water Wells
+CE 436 - Open Channel Hydraulics
+CE 437 - Applied Hydraulic Engineering
+CE 438 - Hydraulic Systems Design
+CE 439 - Civil Engineering Systems Analysis
+CE 440 - Highway and Airport Materials
+CE 441 - Design of Pavement
+CE 442 - Construction and Maintenance of Highways and Airports
+CE 443 - Highway Planning and Design
+CE 444 - Traffic Engineering and Roadway Safety
+CE 445 - Introduction to Traffic Engineering and Safety
+CE 453 - Geotechnical Engineering II
+CE 454 - Soil Stabilization and Site Improvement
+CE 455 - Foundation and Earth Structure Design
+CE 456 - Seepage Analysis & Its Control
+CE 457 - Advanced Geotechnical Engineering
+CE 460 - Remote Sensing Technology
+CE 461 - Geodesy
+CE 462 - Advanced Building Materials and Systems
+CE 463 - Theory of Errors and Adjustment Computations
+CE 464 - Project Surveying
+CE 471 - Water and Wastewater: Treatment and Reuse
+CE 472 - Environmental Engineering
+CE 473 - Design & Operation of Water & Wastewater Treatment Plants
+CE 474 - Municipal Solid Waste Management
+CE 475 - Water Distribution and Wastewater Collection System
+CE 476 - Industrial Hazardous Waste Management & Treatment
+CE 478 - Climate Resilient Infrastructure and Adaptation
+CE 479 - Air Quality in Building and Construction Sites
+CE 481 - Intelligent Transportation System
+CE 482 - Geometric Design of Highways
+CE 490 - Civil Engineering Seminar
+CE 491 - Special Topics in Civil Engineering
+CE 494 - Undergraduate Thesis I
+CE 496 - Undergraduate Thesis II
+CE 497 - Undergraduate Research
+CEM 441 - Automation & Robotics in Construction
+CEM 442 - Application of Digital Technologies in Construction Management
+CGS 392 - Career Essentials
+CHE 200 - Principles of Chemical Engineering
+CHE 201 - Introduction to Chemical Engineering
+CHE 202 - Principles of Chem. Engg. II
+CHE 203 - Chemical Engineering Thermodynamics I
+CHE 204 - Fluid Mechanics
+CHE 212 - Introduction to Chemical Engineering Computing
+CHE 300 - Heat Transfer
+CHE 303 - Chemical Engineering Thermodynamics
+CHE 304 - Mass Transfer
+CHE 306 - Separation Processes
+CHE 309 - Chemical Engineering Laboratory I
+CHE 311 - Chemical Process Industries
+CHE 312 - Surface Petroleum Operations
+CHE 320 - Introduction to Chemical Processes
+CHE 325 - Chemical Engineering Computing Laboratory
+CHE 350 - Begin Cooperative Work
+CHE 351 - Applied Chemical Engineering Cooperative Work
+CHE 352 - End Cooperative Work
+CHE 360 - Numerical Methods in Chemical Engineering
+CHE 398 - Internship
+CHE 399 - Summer Training
+CHE 401 - Process Dynamics and Control
+CHE 402 - Kinetics and Reactor Design
+CHE 404 - Hydrogen production and storage
+CHE 405 - Process Design and Economics
+CHE 409 - Chemical Engineering Laboratory II
+CHE 411 - Senior Design Project I
+CHE 412 - Senior Design Project II
+CHE 422 - Properties of Fluids
+CHE 424 - Fundamentals of Renewable Energy Processes
+CHE 425 - Engineering Economics and Design Principles
+CHE 430 - Rate-Based Separation Processes
+CHE 431 - Membrane Processes Technology
+CHE 432 - Principles of Heat Exchanger Design
+CHE 440 - Catalysis and Catalytic Processes
+CHE 444 - Fuel Cells, Batteries and Supercapacitors
+CHE 449 - Biochemical Engineering
+CHE 453 - Mathematical Methods in Chemical Engineering
+CHE 455 - Chemical Process Simulation
+CHE 456 - Industrial Process Control
+CHE 458 - Process Safety Engineering
+CHE 461 - Petroleum Refining
+CHE 462 - Petrochemical Industries
+CHE 463 - Polymer Technology
+CHE 464 - Refining and Petrochemicals Technology and Economics
+CHE 465 - Process Integration and Optimization
+CHE 470 - Process Air Pollution Control
+CHE 471 - Industrial Wastewater Treatment
+CHE 472 - Corrosion
+CHE 473 - Desalination
+CHE 475 - Climate Change Effects and Mitigation
+CHE 477 - Materials Evaluation and Selection
+CHE 480 - Energy Technology
+CHE 484 - Polymer Composites and Applications
+CHE 485 - Fundamentals of Radioactive Waste Management and safety
+CHE 486 - Nuclear Power Plant Operations
+CHE 490 - Special Topics in Chemical Engineering I
+CHE 491 - Materials Evaluation and Selection
+CHE 492 - Special Topics in Chemical Engineering II
+CHE 494 - Undergraduate Thesis I
+CHE 495 - Integrated Design Course
+CHE 496 - Undergraduate Thesis II
+CHE 497 - Chemical Engineering Undergraduate Research
+CHE 498 - Special Topics in Chemical Engineering I
+CHE 499 - Special Topics in Chemical Engineering II
+CHEM 101 - Principles of Chemical Science I
+CHEM 102 - Principles of Chemical Science II
+CHEM 105 - General Chemistry for Engineers
+CHEM 111 - Basics of Environmental Chemistry
+CHEM 201 - Organic Chemistry I
+CHEM 202 - Organic Chemistry Laboratory
+CHEM 204 - Organic Chemistry II
+CHEM 212 - Physical Chemistry I: Chemical Thermodynamics
+CHEM 213 - Chemical Thermodynamics Lab
+CHEM 221 - Quantitative Chemical Analysis
+CHEM 222 - Quantitative Chemical Analysis Laboratory
+CHEM 223 - Quantitative Methods of Chemical Analysis
+CHEM 236 - Inorganic Chemistry I
+CHEM 303 - Spectroscopic and Qualitative Organic Chemistry
+CHEM 305 - Organic Synthesis & Characterization Laboratory
+CHEM 311 - Physical Chemistry II: Kinetics and Spectroscopy
+CHEM 312 - Kinetics and Spectroscopy Laboratory
+CHEM 313 - Introduction to Computational Chemistry
+CHEM 314 - Computer Applications in Chemistry
+CHEM 315 - Chemical Kinetics and Reaction Mechanisms
+CHEM 321 - Instrumental Analysis for Engineers
+CHEM 323 - Instrumental Chemical Analysis
+CHEM 324 - Instrumental Chemical Analysis
+CHEM 325 - Instrumental Chemical Analysis Laboratory
+CHEM 327 - Environmental Chemistry
+CHEM 331 - Inorganic Chemistry
+CHEM 332 - Advanced Inorganic Chemistry
+CHEM 335 - Fundamentals of Inorganic Chemistry
+CHEM 336 - Advanced Inorganic Chemistry
+CHEM 337 - Inorganic Synthesis & Characterization Laboratory
+CHEM 355 - Industrial Catalysis
+CHEM 363 - Biochemistry
+CHEM 388 - Chemistry Research I
+CHEM 399 - Summer Training
+CHEM 401 - Special Topics
+CHEM 402 - Structure and Mechanisms in Organic Chemistry
+CHEM 403 - Synthetic Organic Chemistry
+CHEM 406 - Spectroscopic Identification of Organic Compounds
+CHEM 411 - Senior Design Project I
+CHEM 412 - Senior Design Project II
+CHEM 415 - Molecular Spectroscopy
+CHEM 416 - Photochemistry
+CHEM 417 - Introduction to Statistical Thermodynamics
+CHEM 418 - Quantum Chemistry
+CHEM 424 - Environmental Analysis
+CHEM 425 - Trace Analysis
+CHEM 426 - Advanced Instrumental Analysis Laboratory
+CHEM 427 - Quality Assurance in Chemical Laboratories
+CHEM 428 - Separation Science and Applications
+CHEM 431 - Chemistry of the Environment
+CHEM 436 - Application of Group Theory to Chemistry
+CHEM 450 - Polymer Chemistry
+CHEM 451 - Polymer Chemistry
+CHEM 452 - Polymer Chemistry Laboratory
+CHEM 453 - Chemistry of Petroleum Processes
+CHEM 454 - Chemistry of Corrosion
+CHEM 455 - Industrial Inorganic Chemistry
+CHEM 456 - Industrial Organic Chemistry
+CHEM 457 - Polymer Characterization and Analysis
+CHEM 458 - Materials Chemistry
+CHEM 459 - Material Synthesis & Characterization Laboratory
+CHEM 461 - Fundamentals of Petrochemical Industry
+CHEM 462 - Spectroscopy in Catalysis
+CHEM 463 - Industrial Catalysis
+CHEM 471 - Chemistry Senior Project I
+CHEM 472 - Chemistry Senior Project II
+CHEM 479 - Chemistry Seminar
+CHEM 488 - Undergraduate Research
+CHEM 489 - Chemistry Research Experience
+CIE 201 - Introduction to Control and Instrumentation
+CIE 204 - Digital Systems Design
+CIE 301 - Numerical Methods
+CIE 305 - Linear Control Systems
+CIE 306 - Linear Control Systems Lab
+CIE 312 - Instrumentation Engineering
+CIE 315 - Signals and Systems
+CIE 316 - Control Systems Design
+CIE 318 - Computer Control Systems
+CIE 390 - Seminars
+CIE 398 - Internship
+CIE 399 - Summer training
+CIE 410 - Automation Devices and Electronics
+CIE 411 - Senior Design Project I
+CIE 412 - Mechatronics
+CIE 413 - Senior Design Project II
+CIE 418 - Industrial Process Control
+CIE 421 - Simulation and Control for Process Industry
+CIE 422 - Intelligent Controllers
+CIE 423 - Model Predictive Control
+CIE 424 - Identification of Linear Systems
+CIE 431 - Industrial Automation
+CIE 432 - Digital Signal Processing
+CIE 433 - Condition-based Maintenance
+CIE 434 - Computer Numerical Control
+CIE 435 - Distributed Computer Control Systems
+CIE 438 - Instrumentation for Process Control
+CIE 439 - Special Topics in Instrumentation
+CIE 441 - Linear Optimal Control
+CIE 442 - Stochastic Control
+CIE 443 - Introduction to Robust Control
+CIE 445 - Control of Mechatronic Systems
+CIE 449 - Special Topics in Control
+CIE 451 - Introduction to Biomedical Engineering
+CIE 452 - Theory of Stochastic Systems
+CIE 453 - Methodology for Large Scale Systems
+CIE 454 - Computer-Aided Manufacturing and Robotics
+CIE 455 - Advanced Instrumentation
+CIE 456 - Safety and Reliability of Control Systems
+CIE 457 - Industrial Communication Systems
+CIE 458 - Advanced Process Modeling and Control
+CIE 459 - Special Topics In Automation
+CIE 460 - Monitoring and Detection
+CIE 461 - Intelligent Instrumentation Systems
+CIE 462 - Safety Instrumented Systems
+CIE 463 - Guided Systems Control
+CIE 464 - Industrial Internet of Things (IoT) Technology
+CIE 468 - Introduction to Convex Optimization
+CIE 470 - Soft Computing for Control and Automation
+CIE 480 - Introduction to Robotics & Autonomous System
+CIE 481 - Applied Control for Robotic Systems
+CIE 482 - Path Planning and Navigation for Mobile Robot
+CIE 483 - Artificial Intelligence and Machine Learning for Robots
+CIE 486 - Autonomy and Decision Making
+CIE 490 - Senior Design Project
+CIE 494 - Undergraduate Thesis I
+CISE 201 - Introduction to Control and Instrumentation
+CISE 204 - Digital Systems Design
+CISE 209 - Introduction to Information Technology
+CISE 301 - Numerical Methods
+CISE 302 - Linear Control Systems
+CISE 305 - Linear Control Systems
+CISE 306 - Linear Control Systems Lab
+CISE 312 - Instrumentation Engineering
+CISE 313 - Automation Devices and Electronics
+CISE 315 - Signals and Systems
+CISE 316 - Control Systems Design
+CISE 318 - Computer Control Systems
+CISE 350 - Begin Cooperative Work
+CISE 351 - Cooperative Work
+CISE 352 - End Cooperative Work
+CISE 390 - Seminars
+CISE 398 - Internship
+CISE 399 - Summer training
+CISE 410 - Automation Devices and Electronics
+CISE 412 - Mechatronics
+CISE 414 - Embedded Control Systems
+CISE 418 - Industrial Process Control
+CISE 421 - Simulation and Control for Process Industry
+CISE 422 - Intelligent Controllers
+CISE 423 - Model Predictive Control
+CISE 424 - Identification of Linear Systems
+CISE 431 - Industrial Automation
+CISE 432 - Digital Signal Processing
+CISE 433 - Condition-based Maintenance
+CISE 434 - Computer Numerical Control
+CISE 435 - Distributed Computer Control Systems
+CISE 438 - Instrumentation for Process Control
+CISE 439 - Special Topics in Instrumentation
+CISE 441 - Linear Optimal Control
+CISE 442 - Stochastic Control
+CISE 443 - Introduction to Robust Control
+CISE 449 - Special Topics in Control
+CISE 451 - Introduction to Biomedical Engineering
+CISE 452 - Theory of Stochastic Systems
+CISE 453 - Methodology for Large Scale Systems
+CISE 454 - Computer-Aided Manufacturing and Robotics
+CISE 455 - Advanced Instrumentation
+CISE 456 - Safety and Reliability of Control Systems
+CISE 457 - Industrial Communication Systems
+CISE 458 - Advanced Process Modeling and Control
+CISE 459 - Special Topics In Automation
+CISE 460 - Monitoring and Detection
+CISE 461 - Intelligent Instrumentation Systems
+CISE 462 - Safety Instrumented Systems
+CISE 463 - Guided Systems Control
+CISE 464 - Industrial Internet of Things (IoT) Technology
+CISE 468 - Introduction to Convex Optimization
+CISE 470 - Soft Computing for Control and Automation
+CISE 480 - Introduction to Robotics & Autonomous System
+CISE 481 - Applied Control for Robotic Systems
+CISE 482 - Path Planning and Navigation for Mobile Robot
+CISE 483 - Artificial Intelligence and Machine Learning for Robots
+CISE 486 - Autonomy and Decision Making
+CISE 490 - Senior Design Project
+CISE 491 - Senior project I
+CISE 492 - Senior project II
+CISE 495 - Special Topics In Automation
+COE 200 - Fundamentals of Computer Engineering
+COE 202 - Digital Logic Design
+COE 203 - Digital Logic Laboratory
+COE 205 - Computer Organization and Assembly Language
+COE 233 - Digital Logic & Computer Organization
+COE 241 - Data and Computer Communications
+COE 292 - Introduction to Artificial Intelligence
+COE 300 - Principles of Computer Engineering Design
+COE 301 - Computer Organization
+COE 302 - Design and Modeling of Digital Systems
+COE 305 - Microcomputer System Design
+COE 306 - Introduction to Embedded Systems
+COE 307 - Computer Hardware
+COE 308 - Computer Architecture
+COE 341 - Data & Computer Communications
+COE 342 - Data & Computer Communications
+COE 344 - Computer Networks
+COE 346 - Computer & Network Security
+COE 350 - Begin Cooperative Work
+COE 351 - Cooperative Work
+COE 352 - End Cooperative Work
+COE 353 - Fundamentals of Computer Communications
+COE 360 - Principles of VLSI Design
+COE 384 - Fundamentals of Computer Engineering Design
+COE 390 - Seminar
+COE 398 - Internship
+COE 399 - Summer Training
+COE 400 - System Design Laboratory
+COE 401 - Modeling and Simulation of Computer and Network Systems
+COE 402 - Computer System Performance Evaluation
+COE 403 - Computer Architecture
+COE 405 - Design and Modeling of Digital Systems
+COE 406 - RISC Architectures
+COE 407 - System-on-Chip Design
+COE 408 - Reconfigurable Computing
+COE 409 - Special Topics in Computer Architecture and Digital Systems Design
+COE 410 - Design of Sequential Systems
+COE 411 - Senior Design Project I
+COE 412 - Senior Design Project II
+COE 413 - SoC Tapeout
+COE 420 - Parallel Computing
+COE 421 - Fault Tolerant Computing
+COE 422 - Real Time Systems
+COE 423 - Distributed Systems
+COE 424 - Introduction to Smart Cards & RFID Technology
+COE 425 - Data Management Systems
+COE 426 - Data Privacy
+COE 427 - Distributed Computing
+COE 429 - Special Topics in Parallel and Distributed Systems
+COE 441 - Local Area Networks
+COE 442 - Computer Networks
+COE 443 - High Speed Networks
+COE 444 - Network Design
+COE 445 - Internet Information Services
+COE 446 - Mobile Computing
+COE 447 - Fundamentals of Optical Networking
+COE 449 - Special Topics in Computer Communications & Networking
+COE 450 - Introduction to Smart Systems
+COE 451 - Computer & Network Security
+COE 452 - Principles of Cloud-based Systems
+COE 453 - Cloud and Edge Computing
+COE 454 - Internet of Things
+COE 456 - Wireless Sensor Networks
+COE 458 - Internet of Drones
+COE 460 - Advanced Digital Electronics
+COE 461 - Principles of VLSI Design
+COE 462 - Design Automation of VLSI Circuits
+COE 464 - Testing of Digital Circuits
+COE 465 - VLSI System Design Methodology
+COE 466 - Quantum Architecture and Algorithms
+COE 469 - Special Topics in VLSI and Design Automation
+COE 482 - Pervasive and Ubiquitous Computing
+COE 484 - Introduction to Robotics
+COE 485 - Senior Design Project
+COE 487 - Computer Vision Processing
+COE 488 - Data Acquisition Interfacing
+COE 494 - Undergraduate Thesis I
+COE 496 - Undergraduate Thesis II
+COE 497 - Undergraduate Research
+COE 499 - Special Topics in Computer Engineering
+CP 101 - Introduction to City Planning
+CP 201 - Planning Theory
+CP 202 - Planning Laws and Legislation
+CP 203 - Introduction to Spatial Database Management Systems
+CP 204 - Land Use Planning
+CP 205 - Urban Economics
+CP 206 - GIS I
+CP 210 - Planning Workshop I
+CP 301 - Urban Survey Methods
+CP 302 - Introduction to Environmental Planning
+CP 303 - Introduction to Cartography & Remote Sensing
+CP 306 - Quantitative Methods in Planning
+CP 307 - Transportation Planning
+CP 308 - GIS II
+CP 310 - Planning Workshop II
+CP 315 - Planning Workshop III
+CP 350 - Begin Cooperative Work
+CP 351 - Cooperative Work
+CP 352 - End Cooperative Work
+CP 399 - Summer Training
+CP 401 - Senior Planning Project Preparation
+CP 402 - Sustainable Development
+CP 410 - Planning Workshop IV
+CP 414 - Geographic Information Systems (GIS)
+CP 421 - Urban Infrastructure Systems
+CP 422 - Public Works Administration
+CP 423 - Development Impact Assessment
+CP 424 - Evaluation and Appraisal
+CP 425 - Urban Modeling
+CP 426 - Internet GIS
+CP 427 - GIS Analysis and Modeling
+CP 428 - GIS in Space Syntax
+CP 429 - Geo-statistical Analysis
+CP 430 - GIS in Transportation
+CP 431 - GIS in Utilities Management
+CP 432 - Special Topics in GIS
+CP 490 - Special Topics in City Planning
+CP 499 - Senior Planning Project
+CPG 199 - Summer Camp
+CPG 415 - UAV Applications
+CPG 498 - Integrated Reservoir Studies
+CPG 499 - Integrated Design II
+DATA 201 - Probability for Data Science
+DATA 211 - Introduction to Data Science
+DATA 301 - Data, Inference, and Decisions
+DATA 311 - Data Engineering
+DATA 321 - Matrix Theory for Data Science
+DATA 322 - Mathematical Modeling for Data Science
+DATA 341 - Statistical Methods for Data Science
+DATA 361 - Fundamentals of Database Systems
+DATA 391 - Human Contexts and Ethics of Data
+DATA 399 - Summer Training
+DATA 411 - Senior Design Project I
+DATA 412 - Senior Design Project II
+DATA 421 - Optimization for Data Science
+DATA 431 - Blockchain & Cryptocurrencies
+DATA 441 - Large Language Models
+DATA 442 - Generative AI and Applications
+DATA 471 - Big Data Analytics
+DSMM 302 - Digital and Social Media Marketing
+DSMM 305 - Consumer Behavior in the Digital Age
+DSMM 310 - Viral Marketing & Digital Influence
+DSMM 320 - Social Media Crises Management
+DSMM 330 - Marketing Analytics and Computational Decision Making
+DSMM 340 - Content Engineering & Digital Brand Management
+DSMM 365 - Creating Digital Experiences & Journeys
+DSMM 398 - Internship
+DSMM 399 - Summer Training
+DSMM 400 - Social Media and Digital Marketing Strategy
+DSMM 410 - Case studies in Digital and Social Media Marketing
+DSMM 411 - Senior Project I
+DSMM 412 - Senior Project II
+DSMM 465 - E-Tailing & Omnichannel Management
+DSMM 475 - Integrated Marketing and Performance Management
+ECON 101 - Principles Of Microeconomics
+ECON 102 - Principles of Macroeconomics
+ECON 202 - Principles of Economics II (MACROECONOMICS)
+ECON 205 - Foundations of Econometrics
+ECON 206 - Economy of Saudi Arabia
+ECON 301 - Intermediate Microeconomic Theory
+ECON 302 - Intermediate Macroeconomic Theory
+ECON 305 - Money & Banking
+ECON 306 - Economy of Saudi Arabia
+ECON 330 - Labor Economics
+ECON 401 - Managerial Economics
+ECON 403 - Engineering Economics
+ECON 405 - Introduction to Econometrics
+ECON 410 - International Economics
+ECON 415 - Public Finance
+ECON 420 - Islamic Economics
+ECON 425 - Economic Development
+ECON 450 - Introduction to Energy Economics
+ECON 475 - Introduction to Energy Markets, Policies and Regulations
+ECON 495 - Special Topics in Economics
+EE 200 - Digital Logic Circuit Design
+EE 201 - Electric Circuits
+EE 202 - Electrical Circuits I
+EE 203 - Electronics I
+EE 204 - Fundamentals of Electrical Circuits (Non EE students)
+EE 205 - Electric Circuits II
+EE 206 - Introduction to Electrical Systems and Computations
+EE 207 - Signals and Systems
+EE 208 - Electrical Systems (Architectural Engineering students)
+EE 210 - Intro. to Electrical Engg
+EE 211 - Electrical Circuits I
+EE 212 - Electrical Circuits Laboratory (Non-EE students)
+EE 213 - Electrical Circuits II
+EE 234 - Electronics and Microcontrollers (Non-EE students)
+EE 235 - Electronics and Microcontrollers Lab (Non-EE students)
+EE 236 - Electronic Circuits (Non-EE students)
+EE 237 - Electronic Circuits Lab (Non-EE students)
+EE 271 - Electrical Circuits Lab
+EE 272 - Analog and Digital Electronics Lab
+EE 303 - Electronics II
+EE 304 - Electronics II Lab
+EE 306 - Electromechanical Devices (Non-EE Students)
+EE 307 - Digital Signal Processing
+EE 308 - Building Electrical Systems
+EE 310 - Fundamentals of Electrical Engineering Design
+EE 311 - Fundamentals of EE Design
+EE 312 - Electrical Systems & Lighting (ARE Students only)
+EE 315 - Probabilistic Methods in Electrical Engineering
+EE 340 - Electromagnetic Waves and Applications
+EE 341 - Electromagnetics Lab
+EE 350 - Begin Cooperative Work
+EE 351 - Electrical Engineering Cooperative Work
+EE 352 - End Cooperative Work
+EE 360 - Electric Energy Engineering
+EE 361 - Electric Energy Engineering Lab
+EE 370 - Communications Engineering
+EE 371 - Communications Engineering Lab
+EE 380 - Control Engineering I
+EE 381 - Control Engineering I Lab
+EE 390 - Digital Systems Engineering
+EE 391 - Digital Systems Engineering Lab
+EE 398 - Electrical Engineering Internship
+EE 399 - Summer Training
+EE 400 - Telecommunication Networks
+EE 402 - Control Engineering II
+EE 403 - Semiconductor Devices
+EE 405 - Microwave Transmission
+EE 406 - Digital Signal Processing
+EE 407 - Microwave Engineering
+EE 408 - Exploration Seismic Signal Processing
+EE 409 - Image Processing for Seismic Interpretation
+EE 410 - Digital Image Processing
+EE 411 - Senior Design Project I
+EE 412 - Senior Design Project II
+EE 413 - Applied Digital Signal Processing
+EE 415 - Analog Integrated Circuits Analysis and Design
+EE 416 - Introduction to Radar
+EE 417 - Modern Digital Communication Systems
+EE 418 - Introduction to Satellite Communications
+EE 419 - Wireless Communication
+EE 420 - Optical Fiber Communications
+EE 421 - Optics and Photonics
+EE 422 - Antenna Theory
+EE 425 - Integrated Circuits Analysis and Design
+EE 426 - Mixed Mode Signal Processing Circuits
+EE 427 - Bioelectronics
+EE 429 - Microcomputer Organization
+EE 430 - Information Theory and Coding
+EE 432 - Digital Control Systems
+EE 433 - Applied Control Engineering
+EE 434 - Industrial Instrumentation
+EE 436 - Introduction to Micro and Nano-Electronics
+EE 437 - Energy Harvesting Circuits and Systems
+EE 439 - Micro/Nanotechnology and Biosensors
+EE 441 - RF and Microwave Transceivers Design and Analysis
+EE 445 - Industrial Electronics
+EE 446 - Programmable Logic Controllers
+EE 455 - Analog Communication Electronics
+EE 456 - Digital Communication Electronics
+EE 457 - Electrical Utilization System Design
+EE 458 - Hydrogen and Electricity Infrastructures
+EE 459 - Electrical Energy Efficiency
+EE 460 - Power Electronics
+EE 461 - Smart Grids
+EE 462 - Electrical Machines
+EE 463 - Power System Analysis
+EE 464 - High Voltage Engineering
+EE 465 - Power Transmission and Distribution
+EE 466 - Power System Protection
+EE 467 - Power System Planning & Operation
+EE 468 - Renewable Energy
+EE 469 - Introduction to Nuclear Engineering
+EE 470 - Optoelectronic Devices
+EE 471 - Telecommunication Networks Lab
+EE 472 - Microwave Transmission Lab
+EE 473 - Microwave Engineering Lab
+EE 474 - Optical Fiber Communications Lab
+EE 475 - Antenna Theory Lab
+EE 476 - Digital Control Systems Lab
+EE 477 - Applied Control Engineering Lab
+EE 478 - Industrial Instrumentation Lab
+EE 479 - Industrial Electronics Lab
+EE 480 - Digital Communication Electronics Lab
+EE 481 - Power Electronics Lab
+EE 482 - Electrical Machines Lab
+EE 483 - Power System Protection lab
+EE 484 - Renewable Energy lab
+EE 485 - Applied Digital Signal Processing Lab
+EE 490 - Special Topics in Electrical Engineering I
+EE 491 - Special Topics in Electrical Engineering II
+EE 492 - Special Topics in Electrical Engineering III
+EE 494 - Undergraduate Thesis I
+EE 496 - Undergraduate Thesis II
+EE 497 - Undergraduate research
+EE 498 - Special Topics in EE II
+EE 499 - Special Topics in Electrical Engineering
+ENGL 101 - Introduction to Academic Discourse
+ENGL 102 - Introduction to Argument Writing
+ENGL 214 - Academic & Professional Communication
+ENTR 250 - Lean Startup & Business Model Design
+ENTR 310 - Startup Financing, Venture Capital, and Exit Strategies
+ENTR 320 - Product and Growth Strategy
+ENTR 322 - Introduction to Entrepreneurship
+ENTR 398 - Internship
+ENTR 399 - Summer Training
+ENTR 410 - Case Studies in FinTech & Venture Creation
+ENTR 411 - Senior Project I
+ENTR 412 - Senior Project II
+ENTR 413 - Entrepreneurial Marketing
+ENTR 415 - Social Entrepreneurship
+ENTR 416 - Entrepreneurship and New Venture Creation
+ENTR 420 - Venture Launch Innovation Lab
+ENTR 423 - Small and Medium Enterprise Management
+ENTR 495 - Special Topics in Entrepreneurship
+ESE 231 - Fundamentals of Environmental Science and Engineering
+ESE 371 - Environmental Engineering Lab
+ESE 399 - Summer Training
+ESE 411 - Senior Design Project I
+ESE 412 - Senior Design Project II
+ESE 431 - Water Treatment & Reuse
+ESE 432 - Solid & Hazardous Waste Mgmt.
+ESE 494 - Undergraduate Thesis I
+ESE 496 - Undergraduate Thesis II
+FFE 320 - Time Series Analysis and Statistical Arbitrage
+FFE 333 - Machine Learning in Finance
+FFE 335 - Security Analysis and Portfolio Optimization
+FFE 336 - Interest Rates and Credit Risk Modeling
+FFE 337 - Case Studies in investment and technical analysis
+FFE 338 - Quantitative Risk Management
+FFE 398 - Internship
+FFE 399 - Summer Training
+FFE 411 - Senior Project I
+FFE 412 - Senior Project II
+FFE 440 - Market Microstructure and Algo Trading
+FIN 200 - Introduction to Finance
+FIN 250 - Financial Management
+FIN 301 - Financial Management I
+FIN 302 - Financial Management II
+FIN 310 - Intermediate Financial Management
+FIN 315 - Corporate Finance
+FIN 320 - Investments Management and Capital Markets
+FIN 321 - Financial Econometrics
+FIN 350 - Begin Cooperative Work
+FIN 351 - Cooperative Work
+FIN 352 - End Cooperative Work
+FIN 398 - Internship
+FIN 399 - Summer Training
+FIN 410 - International Financial Management
+FIN 415 - Management of Financial Institutions
+FIN 416 - Entrepreneurial Finance
+FIN 420 - Investments
+FIN 421 - Security Analysis and Portfolio Management
+FIN 422 - Financial Risk Management
+FIN 423 - Fixed Income Analysis
+FIN 424 - Investment Valuation
+FIN 425 - Financial Modeling
+FIN 430 - Risk Management, Conventional and Islamic Insurance
+FIN 435 - Real Estate and Finance
+FIN 440 - Islamic Finance
+FIN 441 - Governance of Islamic Financial Institutions
+FIN 442 - Islamic Capital Markets
+FIN 443 - Accounting of Islamic Financial Institutions
+FIN 445 - Big Data in Finance
+FIN 450 - Case Studies in Finance
+FIN 460 - Futures and Options Markets
+FIN 470 - Financial Engineering
+FIN 477 - Senior Project I
+FIN 478 - Senior Project II
+FIN 480 - Special Topics in Finance
+FIN 494 - Undergraduate Thesis I
+FIN 495 - Special Topics in Finance
+FIN 496 - Undergraduate Thesis II
+FNT 230 - Introduction to FinTech
+FNT 330 - FinTech Regulation & Compliance
+FNT 340 - Financial Modeling & Simulatio
+FNT 360 - Decentralized Finance, Blockchain & FinTech Platforms
+FNT 430 - Behavioral Finance
+FNT 495 - Special Topics in FinTech
+GEO 366 - Environmental Management & Climate Change
+GEO 401 - Fundamentals of Climate Change
+GEO 466 - Principles of Environmental Impact Assessment
+GEOL 101 - Principles of Geology
+GEOL 102 - Principles of Geology
+GEOL 103 - Principles of Geology - Lab
+GEOL 201 - Physical Geology
+GEOL 202 - Applied Geosciences for Scientists and Engineers
+GEOL 203 - Historical Geology
+GEOL 204 - Mining Geoscience - I
+GEOL 213 - Earth History and Paleontology
+GEOL 214 - Paleontology & Biostratigraphy
+GEOL 216 - Mineralogy and Optics
+GEOL 217 - Mineralogy and Optical Mineralogy
+GEOL 220 - Petrology
+GEOL 270 - Sedimentology & Stratigraphy
+GEOL 303 - Sustaining The Earth
+GEOL 305 - Structural Geology
+GEOL 307 - Sedimentation & Stratigraphy
+GEOL 312 - Remote Sensing and GIS Applications in Geology
+GEOL 314 - Mining Geoscience - II
+GEOL 315 - Petroleum Geology
+GEOL 318 - Regional Geology
+GEOL 320 - Petrology
+GEOL 328 - Geological Mapping Techniques
+GEOL 341 - Engineering Geology
+GEOL 345 - Integrated Petroleum Geology
+GEOL 354 - Computational Methods in Geology
+GEOL 355 - Geochemistry
+GEOL 356 - Fundamentals of Geochemistry
+GEOL 357 - Stable Isotope Geochemistry
+GEOL 364 - Carbonate Geology
+GEOL 399 - Summer Training
+GEOL 409 - Geology Seminar
+GEOL 411 - Senior Design Project I
+GEOL 412 - Senior Design Project II
+GEOL 415 - Petroleum Geology
+GEOL 420 - Geotectonics
+GEOL 423 - Hydrogeology
+GEOL 430 - Field Geology
+GEOL 431 - Geomorphology
+GEOL 434 - Marine Geology
+GEOL 435 - Petroleum Geochemistry
+GEOL 436 - Oceanography
+GEOL 440 - Sedimentology
+GEOL 441 - Techniques in Sediment Analysis
+GEOL 444 - Undergraduate Research
+GEOL 446 - Environmental Geology
+GEOL 447 - Energy and the Environment
+GEOL 450 - Biostratigraphy of the Arabian Plate
+GEOL 454 - Computational Methods in Geology
+GEOL 455 - Applied Geochemistry
+GEOL 456 - Economic Geology
+GEOL 457 - Geology of Ore Deposits
+GEOL 459 - Life of Mine
+GEOL 460 - Mining Geology
+GEOL 461 - Mineral Economics
+GEOL 464 - Carbonate Geology
+GEOL 465 - Subsurface Geology
+GEOL 470 - Geology of Unconventional Reservoirs
+GEOL 480 - Special Topics
+GEOL 482 - Current Topics in Geosciences
+GEOL 490 - Special Topics
+GEOL 499 - Geology Seminar
+GEOP 102 - Essentials of Geophysics
+GEOP 202 - Introduction to Geophysics
+GEOP 204 - Introduction to Seismology
+GEOP 205 - Computational Geophysics
+GEOP 215 - Introduction to Seismic Exploration
+GEOP 304 - Gravity and Magnetic Exploration
+GEOP 315 - Seismic Exploration I
+GEOP 320 - Seismic Data Processing
+GEOP 340 - Borehole Geophysics
+GEOP 353 - Electrical and Electromagnetic Exploration
+GEOP 399 - Summer Training
+GEOP 402 - Senior Project
+GEOP 404 - Gravity & Magnetic Exploration
+GEOP 405 - Seminar
+GEOP 411 - Senior Design Project i
+GEOP 412 - Senior Design Project II
+GEOP 415 - Seismic Exploration II
+GEOP 416 - Seismic Data Interpretation
+GEOP 420 - Current Topics in Geosciences
+GEOP 421 - Exploration and Development of Geothermal Energy
+GEOP 422 - Remote Sensing
+GEOP 430 - Geophysical Well Logging
+GEOP 440 - Geophysics for Petroleum Engg
+GEOP 450 - Electrical Exploration
+GEOP 455 - Geodynamics
+GEOP 458 - Geoscience Practices in the Mining Industry
+GEOP 465 - Paleomagnetism
+GEOP 470 - Geophysical Engineering
+GEOP 472 - Meteorology & Climatology
+GEOP 475 - Environmental Geophysics
+GEOP 478 - Data Inversion in Geophysics
+GEOP 480 - Special Topics
+GEOP 488 - Petrophysics
+GEOP 490 - Geophysics Field Camp
+GEOP 495 - Advanced Reservoir Characterization
+GEOP 497 - Undergraduate Research
+GEOP 499 - Seminar
+GS 220 - Information Searching Skills
+GS 221 - Work & Society
+GS 318 - World Civilizations
+GS 321 - Principles of Human Behavior
+GS 332 - Principles of Sociology
+GS 336 - Work & Society
+GS 342 - International Relations
+GS 355 - Cultural Anthropology
+GS 357 - AI & Society
+GS 363 - Introduction to Leadership
+GS 372 - Principles of Nonprofit Management
+GS 420 - Personality Psychology
+GS 423 - International Relations
+GS 424 - Business Psychology
+GS 426 - Social psychology
+GS 427 - Man and Environment
+GS 434 - Mass Media & Society
+GS 437 - Work and Society
+GS 445 - Energy Management and Policies
+GS 447 - Globalization
+GS 454 - Anthropology of Travel
+GS 456 - Science, Technology & Society
+GS 457 - Social Networks
+GS 494 - Special Topics I
+GS 495 - Special Topics II
+GS 496 - Special Topics III
+HRM 301 - Human Resources Management
+HRM 312 - Employment Law
+HRM 390 - Performance Appraisal & Management
+HRM 398 - Internship
+HRM 399 - Summer Training
+HRM 401 - Staffing & Selection
+HRM 402 - Training & Development
+HRM 403 - Compensation and Benefits Management
+HRM 406 - Business Negotiations
+HRM 411 - International Human Resource Management
+HRM 450 - Strategic Human Resource Management
+HRM 477 - Senior Project I
+HRM 478 - Senior Project II
+HRM 494 - Undergraduate Thesis I
+HRM 495 - Special Topics in Human Resource Management
+HRM 496 - Undergraduate Thesis II
+IAS 101 - Practical Grammar
+IAS 111 - Belief and its Consequences
+IAS 121 - Language Foundation
+IAS 131 - Reading and Writing
+IAS 201 - Writing for Professional Needs
+IAS 211 - Ethics in Islam
+IAS 212 - Professional Ethics and Governance
+IAS 231 - Grammar and Composition
+IAS 301 - Oral Communication Skills
+IAS 311 - Islamic Shariah
+IAS 321 - Effective Language Communication
+IAS 322 - Human Rights in Islam
+IAS 330 - Introduction to Justice & Law
+IAS 331 - Literature and Text
+IAS 411 - Contemporary Islamic World
+IAS 416 - As-Sirah An-Nabawiyyah
+IAS 417 - Inimitability of Al-Quran and Al-Sunnah
+IAS 418 - Contemporary Financial Transactions in Islam
+IAS 419 - Inimitability of Al-Quran
+IAS 430 - Jurisprudence of Entrepreneurship
+ICS 101 - Computer Programming
+ICS 102 - Introduction to Computing I
+ICS 103 - Computer Programming in C
+ICS 104 - Introduction to Programming in Python and C
+ICS 108 - Object-Oriented Programming
+ICS 201 - Introduction to Computing II
+ICS 202 - Data Structures and Algorithms
+ICS 233 - Computer Architecture & Assembly Language
+ICS 253 - Discrete Structures
+ICS 254 - Discrete Structures II
+ICS 309 - Computing & Society
+ICS 321 - Database Systems
+ICS 324 - Database Systems
+ICS 343 - Fundamentals of Computer Networks
+ICS 344 - Information Security
+ICS 350 - Begin Cooperative Work
+ICS 351 - Cooperative Work
+ICS 352 - End Cooperative Work
+ICS 353 - Design and Analysis of Algorithms
+ICS 355 - Theory of Computing
+ICS 381 - Principles of Artificial Intelligence
+ICS 398 - Internship
+ICS 399 - Summer Training
+ICS 410 - Programming Languages
+ICS 411 - Senior Project
+ICS 412 - Compiler Construction Techniques
+ICS 413 - Senior Project I
+ICS 414 - Senior Project II
+ICS 415 - Computer Graphics
+ICS 424 - Advanced Database Systems
+ICS 426 - Data Warehousing & Data Mining
+ICS 431 - Operating Systems
+ICS 433 - Operating Systems
+ICS 436 - Systems & Network Administration
+ICS 437 - Distributed Systems
+ICS 439 - Cryptography in Quantum Era
+ICS 440 - Cryptography and Blockchain Applications
+ICS 441 - Digital Forensics Techniques
+ICS 442 - Penetration Testing and Ethical Hacking
+ICS 443 - Network Design & Management
+ICS 444 - Computer & Network Security
+ICS 445 - Network Management and Security
+ICS 446 - Cluster Computing
+ICS 447 - Computer Network Technologies
+ICS 448 - Network and Security Administration
+ICS 454 - Principles of Cryptography
+ICS 467 - Security in Artificial Intelligence Systems
+ICS 471 - Deep Learning
+ICS 472 - Natural Language Processing
+ICS 473 - Bioinformatics Mining and Algorithms
+ICS 474 - Big Data Analytics
+ICS 476 - Artificial Intelligence for Cybersecurity
+ICS 477 - AI-Driven Computational Forensics
+ICS 478 - Data-Driven Cybersecurity
+ICS 479 - Cyber-Physical System Security
+ICS 480 - Reverse Engineering and Exploitation
+ICS 481 - Artificial Neural Networks
+ICS 482 - Natural Language Processing
+ICS 483 - Computer Vision
+ICS 484 - Arabic Computing
+ICS 485 - Machine Learning
+ICS 486 - Agent-Based Systems and Swarm Intelligence
+ICS 487 - Intelligent Decision Support Systems
+ICS 488 - Knowledge Based System and Soft Computing
+ICS 489 - Applications of Machine Learning
+ICS 490 - Special Topics I
+ICS 491 - Special Topics II
+ICS 494 - Undergraduate Thesis I
+ICS 496 - Undergraduate Thesis II
+ICS 497 - Directed Undergraduate Research
+ISE 100 - Introduction to Technology
+ISE 201 - Introduction to Industrial and Systems Engineering
+ISE 205 - Engineering Probability and Statistics
+ISE 291 - Introduction to Data Science
+ISE 303 - Operation Research I
+ISE 304 - Principles of Industrial Costing
+ISE 305 - Optimization Methods
+ISE 307 - Engineering Economic Analysis
+ISE 315 - Engineering Statistics
+ISE 320 - Quality Control and Industrial Statistics
+ISE 321 - Optimization Methods
+ISE 322 - Manufacturing Technology
+ISE 323 - Work and Process Improvements
+ISE 324 - Work and Process Improvements
+ISE 325 - Engineering Statistics
+ISE 350 - Begin Cooperative Work
+ISE 351 - Cooperative Work
+ISE 352 - End Cooperative Work
+ISE 361 - Fundamentals of Data Base Systems
+ISE 365 - Information Systems for Industrial and Systems Engineering
+ISE 390 - Seminars
+ISE 391 - Industrial Engineering Design
+ISE 398 - Internship
+ISE 399 - Summer Training
+ISE 402 - Production Systems and Inventory Control
+ISE 405 - Stochastic Systems Simulation
+ISE 411 - Senior Design Project I
+ISE 412 - Senior Design Project II
+ISE 413 - Productivity Engineering and Management
+ISE 420 - Quality Improvement Methods
+ISE 421 - Operation Research II
+ISE 422 - Facility Layout and Location
+ISE 425 - Queuing Systems
+ISE 426 - Operations Research II
+ISE 429 - Maintenance Planning and Control
+ISE 430 - Industrial Engineering in Healthcare Systems
+ISE 440 - Engineering Project Management
+ISE 443 - Human Factors Engineering
+ISE 447 - Decision Making
+ISE 448 - Sequencing and Scheduling
+ISE 449 - Special Topics in Industrial Engineering Design
+ISE 453 - Design Optimization
+ISE 455 - Applied Models for Optimal Decisions
+ISE 460 - Industrial Process Re-Engineer
+ISE 461 - Computer Aided Manufacturing and Robotics
+ISE 463 - Theory of Stochastic Processes
+ISE 464 - Industrial Information Systems
+ISE 465 - Industrial Safety
+ISE 468 - Introduction to Machine Learning and Data Analytics
+ISE 470 - Supply Chain Systems Modeling
+ISE 472 - Logistics and Transportation Systems
+ISE 480 - Reliability & Maintainability
+ISE 482 - Senior Design Project
+ISE 487 - Predictive Analytics Techniques
+ISE 490 - Senior Design Project
+ISE 491 - Special Topics in Operations Research
+ISE 492 - Special Topics in Production and Quality Control
+ISE 493 - Special Topics in IE/OR
+ISE 494 - Undergraduate Thesis I
+ISE 496 - Undergraduate Thesis II
+ISE 499 - Seminars
+ITD 101 - Design Survey
+ITD 202 - Design Ideation
+ITD 203 - Design Application
+ITD 211 - Digital Visualization I
+ITD 212 - Digital Visualization II
+ITD 304 - Function & Usability
+ITD 305 - Emotional Design and Design for Aging
+ITD 313 - Prototyping and Fabrication
+ITD 314 - XR Representations I
+ITD 399 - Summer Training
+ITD 406 - Sandbox Exploration
+ITD 407 - Design for Social Innovation
+ITD 411 - Senior Design Project I
+ITD 412 - Senior Design Project II
+ITD 415 - XR representations II
+ITD 420 - Creative Thinking Techniques
+ITD 460 - Storytelling and Character Design
+ITD 461 - Games Assets and Mechanics
+ITD 490 - Special Topics in Integrated Design Solutions
+ITD 491 - Special Topics in Digital Integrated Design
+ITD 494 - Undergraduate Thesis I
+ITD 496 - Undergraduate Thesis II
+MATH 101 - Calculus I
+MATH 102 - Calculus II
+MATH 105 - Finite Mathematics
+MATH 106 - Calculus for Business
+MATH 131 - Finite Mathematics
+MATH 132 - Applied Calculus
+MATH 201 - Calculus III
+MATH 202 - Elements of Differential Equations
+MATH 208 - Differential Equations and Linear Algebra
+MATH 210 - Discrete Mathematics
+MATH 225 - Introduction to Linear Algebra
+MATH 232 - Introduction to Sets and Structures
+MATH 260 - Introduction to Differential Equations & Linear Algebra
+MATH 280 - Introduction to Linear Algebra
+MATH 301 - Methods of Applied Mathematics
+MATH 302 - Engineering Mathematics
+MATH 305 - Development of Mathematics
+MATH 310 - Logic and Set Theory
+MATH 311 - Advanced Calculus I
+MATH 315 - Development of Mathematics
+MATH 320 - Mathematics for Machine Learning
+MATH 321 - Introduction to Numerical Computing
+MATH 322 - Quantitative Methods for Actuaries
+MATH 323 - Algebra I
+MATH 325 - Linear Algebra
+MATH 330 - Euclidean and Non-Euclidean Geometry
+MATH 333 - Methods of Applied Mathematics
+MATH 335 - Mathematical Modeling
+MATH 336 - Mathematical Models in Biology
+MATH 341 - Real Analysis I
+MATH 345 - Modern Algebra I
+MATH 353 - Euclidean and Non-Euclidean Geometry
+MATH 355 - Linear Algebra
+MATH 371 - Numerical Computing
+MATH 372 - Quantitative Methods for Actuaries
+MATH 373 - Numerical Linear Algebra
+MATH 399 - Summer Training
+MATH 401 - Methods of Applied Mathematics II
+MATH 405 - Learning from Data
+MATH 407 - Applied Game Theory
+MATH 411 - Advanced Calculus II
+MATH 412 - Advanced Calculus III
+MATH 413 - Senior Project I
+MATH 414 - Senior Project II
+MATH 416 - Stochastic Processes in Finance
+MATH 421 - Introduction to Topology
+MATH 423 - Algebra II
+MATH 424 - Applied Algebra
+MATH 425 - Graph theory
+MATH 427 - Number Theory
+MATH 428 - Introduction to Cryptography
+MATH 429 - Coding Theory
+MATH 430 - Introduction to Complex Variables
+MATH 431 - Introduction to Measure Theory and Functional Analysis
+MATH 432 - Applied Matrix Theory
+MATH 433 - Methods of Applied Mathematics II
+MATH 434 - Calculus of Variations and Optimal Control
+MATH 435 - Ordinary Differential Equations
+MATH 436 - Discrete Models
+MATH 437 - Partial Differential Equations
+MATH 440 - Differential Geometry
+MATH 441 - Real Analysis II
+MATH 442 - Calculus of Variations and Optimal Control
+MATH 443 - Advanced Calculus III
+MATH 445 - Introduction to Complex Variables
+MATH 450 - Modern Algebra II
+MATH 451 - Differentia Geometry
+MATH 452 - Applied Algebra
+MATH 453 - Digital Topology
+MATH 455 - Number Theory
+MATH 460 - Applied Matrix Theory
+MATH 463 - Applied Combinatorics
+MATH 465 - Ordinary Differential Equations
+MATH 467 - Graph Theory
+MATH 470 - Partial Differential Equations
+MATH 471 - Numerical Linear Algebra
+MATH 472 - Numerical Analysis
+MATH 474 - Linear & Nonlinear Programming
+MATH 475 - Engineering Design Optimization
+MATH 476 - Computational Methods in Finance
+MATH 477 - Foundation of Scientific Computing
+MATH 480 - Linear & Nonlinear Programming
+MATH 485 - Computational Inverse Problem
+MATH 490 - Seminar in Mathematics
+MATH 493 - Special Topic I
+MATH 494 - Undergraduate Thesis I
+MATH 495 - Special Topic II
+MATH 496 - Undergraduate Thesis II
+MATH 498 - Topics in Mathematics I
+MATH 499 - Topics in Mathematics II
+ME 001 - Preparatory Graphics
+ME 002 - Preparatory Shop
+ME 201 - Dynamics
+ME 203 - Thermodynamics I
+ME 204 - Thermodynamics II
+ME 205 - Materials Science
+ME 206 - Manufacturing Processes I
+ME 207 - Materials Science for CHE
+ME 210 - Mechanical Engineering Drawing and Graphics
+ME 215 - Material Science for ME
+ME 216 - Materials Science and Engineering
+ME 217 - Materials Lab
+ME 218 - Introduction to ME Design
+ME 301 - Machine Design I
+ME 302 - Machine Design II
+ME 303 - Mechanical System Design Lab
+ME 306 - Manufacturing Processes II
+ME 307 - Machine Design I
+ME 308 - Machine Design II
+ME 309 - Mechanics of Machines
+ME 311 - Fluid Mechanics
+ME 312 - Thermofluids Engineering
+ME 315 - Heat Transfer
+ME 316 - Thermo-Fluid Lab
+ME 320 - Introduction to Aeronautics
+ME 322 - Manufacturing Processes
+ME 323 - Manufacturing Lab
+ME 350 - Begin Cooperative Work
+ME 351 - Applied Mechanical Engineering Cooperative Work
+ME 352 - End Cooperative Work
+ME 398 - Internship
+ME 399 - Summer Training
+ME 401 - System Dynamics & Control
+ME 402 - Measurements and Control Laboratory
+ME 403 - The Design Process
+ME 404 - Design for Sustainability
+ME 406 - Manufacturing and Design
+ME 407 - Advanced Manufacturing Lab
+ME 408 - Rapid Prototyping and Digital Manufacturing
+ME 409 - Design and Manufacturing of Composite Structures
+ME 410 - Introduction to Ceramics
+ME 411 - Senior Design Project I
+ME 412 - Senior Design Project II
+ME 413 - Systems Dynamics and Control
+ME 414 - Design Project I
+ME 415 - Senior Design Project
+ME 416 - Design Project II
+ME 417 - Mechanics of Machines
+ME 418 - Advanced Manufacturing and Design
+ME 420 - Materials Selection and Design
+ME 421 - Automotive Design and Engineering
+ME 422 - Propulsion Systems
+ME 423 - Energy Conversion
+ME 424 - Maintenance Engineering
+ME 425 - Compressible Fluid Flow
+ME 426 - Energy Management and Policies
+ME 427 - Turbomachinery
+ME 428 - Structures of Flight Vehicles
+ME 429 - Energy Auditing
+ME 430 - Air Conditioning
+ME 431 - Refrigeration
+ME 432 - Internal Combustion Engines
+ME 433 - Fundamentals of Combustion
+ME 434 - Wind Engineering
+ME 435 - Thermal Power Plants
+ME 436 - Fluid Power Systems
+ME 437 - Design and Rating of Heat Exchangers
+ME 438 - Pumping Machinery
+ME 439 - Solar Energy Conversion
+ME 440 - Convective Heat and Mass Transfer
+ME 441 - Energy and the Environment
+ME 442 - Design of PV-Solar Systems
+ME 443 - Mechanics of Robotic Manipulators
+ME 444 - Introduction to Mechatronics
+ME 445 - Principles of Nanostructure Materials & Sensor Technology
+ME 446 - Computational Fluid Dynamics and Heat Transfer
+ME 447 - Intelligent Energy Systems
+ME 448 - Engineering of Nuclear Reactor
+ME 449 - Introduction to Atomistic Simulations
+ME 450 - Mechanical Engineering Experimentation
+ME 451 - Design and Analysis of Engineering Experiments
+ME 452 - Measurements and Lab Project
+ME 453 - Polymer Sustainability
+ME 454 - Materials in Nuclear Power Plants
+ME 455 - Mechatronic Design
+ME 456 - Fundamentals of Nondestructive Evaluation
+ME 457 - Failure of Materials and Prevention
+ME 458 - Design of Thermo-Fluid Systems
+ME 459 - Design of Renewable Energy Systems
+ME 460 - Thermal Desalination Systems
+ME 461 - Risk Management Tools In Systems Design and Operation
+ME 462 - Products and Systems Reliability
+ME 463 - Tool Design
+ME 464 - Quality in Manufacturing
+ME 465 - Designing Robust Products & Systems
+ME 466 - Fundamentals of Heat Treatment
+ME 467 - Tribology in Design
+ME 468 - Casting and Welding Engineering
+ME 469 - Computer-Aided Manufacturing
+ME 470 - Product Design and Development
+ME 471 - Mechanical Metallurgy
+ME 472 - Corrosion Engineering
+ME 473 - Corrosion Engineering II
+ME 474 - Physical Metallurgy
+ME 475 - Mechanical Behavior of Materials
+ME 476 - Non-Metallic Materials
+ME 477 - Non-Ferrous Extractive Metallurgy
+ME 478 - Iron and Steel Making
+ME 479 - Modern Materials
+ME 480 - Plastics Materials and Processing
+ME 481 - Advanced Dynamics
+ME 482 - Mechanical Vibrations
+ME 483 - Mechanisms
+ME 484 - Acoustics
+ME 485 - Mechanical System Design
+ME 486 - Optimization of Mechanical Systems
+ME 487 - Mechanics of Materials
+ME 488 - Systems Control
+ME 489 - Finite Element Analysis in Mechanical Design
+ME 490 - Special Topics in Mechanical Engineering
+ME 491 - Special Topics in Energy
+ME 492 - Special Topics in Dynamics & Control
+ME 493 - Special Topics in Materials & Manufacturing
+ME 494 - Undergraduate Thesis I
+ME 495 - Undergraduate Research
+ME 496 - Undergraduate Thesis II
+MGT 210 - Business Communication
+MGT 301 - Principles of Management
+MGT 310 - Organization Behavior
+MGT 311 - Legal Environment (in Arabic)
+MGT 312 - Ethics & Social Responsibility
+MGT 313 - International Legal Environment
+MGT 350 - Begin Cooperative Work
+MGT 351 - Cooperative Work
+MGT 352 - End Cooperative Work
+MGT 355 - Business Research Methods
+MGT 398 - Internship
+MGT 399 - Summer Training
+MGT 401 - Human Resources Management
+MGT 405 - Compensation and Benefits Management
+MGT 410 - Organization Behavior & Design
+MGT 411 - Saudi & International Commercial Arbitration
+MGT 412 - Entrepreneurship and Small Business Management
+MGT 413 - International Management
+MGT 415 - Industrial Psychology
+MGT 420 - Materials Management
+MGT 425 - Organizational Changes & Development
+MGT 430 - Organizational Leadership
+MGT 440 - International Business
+MGT 448 - Project Feasibility Analysis (in Arabic)
+MGT 449 - Strategic Management
+MGT 450 - Management of Innovation and Change
+MGT 475 - Business Strategy & Competitive Advantage
+MGT 495 - Special Topics in Management
+MINE 200 - Introduction to Mining Industry
+MINE 201 - Intro to Mine Design Platform
+MINE 202 - Introductory Statistics and Grade Estimation
+MINE 304 - Electricity in Mines
+MINE 305 - Mine Plant Design
+MINE 306 - Mining Geomechanics
+MINE 334 - Mine Surveying
+MINE 348 - Surface Mine Design
+MINE 353 - Underground Mine Design
+MINE 399 - Summer Training
+MINE 402 - Mine Ventilation
+MINE 405 - Sustainable Mining
+MINE 409 - Mine Health & Safety
+MINE 411 - Senior Design Project I
+MINE 412 - Senior Design Project II
+MINE 481 - Resource Estimation
+MINE 482 - Mine Systems Analysis
+MINE 491 - Database Systems and Utilization in Mining
+MINE 492 - Drilling and Blasting
+MIS 101 - Business Computing
+MIS 105 - Introduction to Computer Applications
+MIS 215 - Principles of Management Information Systems
+MIS 250 - Management Information Systems
+MIS 300 - Fundamentals of Electronic Commerce
+MIS 301 - Systems Analysis & Design
+MIS 302 - Business Applications Development
+MIS 311 - Business Data Management
+MIS 315 - MIS Innovation and New Technologies
+MIS 320 - Knowledge Management
+MIS 325 - Human Resources Information Systems
+MIS 341 - Introduction to Data Analytics
+MIS 345 - Information Technology in Society
+MIS 350 - Begin Cooperative Work
+MIS 351 - Cooperative Work
+MIS 352 - End Cooperative Work
+MIS 355 - Enterprise Systems
+MIS 365 - Blockchain Fundamentals in Business
+MIS 375 - Human Computer Factors in Systems Design
+MIS 380 - IS Security
+MIS 393 - Digital Transformation in Business
+MIS 398 - Internship
+MIS 399 - Summer Training
+MIS 400 - Digital Business Project
+MIS 401 - Business Systems Analysis & Design II
+MIS 402 - Electronic Commerce Project
+MIS 405 - IS Project Management
+MIS 410 - Management Support Systems
+MIS 411 - Database Application Development
+MIS 415 - Computer Supported Collaborative Work
+MIS 420 - Computer Control and Audit
+MIS 425 - End-User Computing
+MIS 442 - Data Analytics Applications
+MIS 477 - Senior Project I
+MIS 478 - Senior Project II
+MIS 490 - Information Resources Management
+MIS 494 - Undergraduate Thesis I
+MIS 495 - Special Topics in MIS
+MIS 496 - Undergraduate Thesis II
+MIS 499 - Special Topics in MIS
+MKT 250 - Principles of Marketing
+MKT 301 - Principles of Marketing
+MKT 313 - Marketing for Entrepreneurs
+MKT 320 - Sales Management
+MKT 330 - Advertising & Sales Promotion
+MKT 340 - Retail Management
+MKT 345 - Marketing Research
+MKT 350 - Begin Cooperative Work
+MKT 351 - Cooperative Work
+MKT 352 - End Cooperative Work
+MKT 360 - Product & Brand Management
+MKT 370 - Integrated Marketing Communications
+MKT 375 - Services Marketing
+MKT 380 - Marketing Channels
+MKT 390 - New Product Development
+MKT 398 - Internship
+MKT 399 - Summer Training
+MKT 400 - Industrial Marketing
+MKT 410 - Consumer Behavior
+MKT 420 - International Marketing
+MKT 430 - Services Marketing
+MKT 440 - Retail Management
+MKT 450 - Strategic Marketing
+MKT 460 - Advertising
+MKT 470 - Personal Selling and Sales Management
+MKT 480 - Internet Marketing
+MKT 485 - Digital Marketing
+MKT 490 - Business-to-Business Marketing
+MKT 494 - Undergraduate Thesis I
+MKT 495 - Special Topics in Marketing
+MKT 496 - Undergraduate Thesis II
+MSE 201 - Introduction to Materials
+MSE 202 - Materials Lab
+MSE 203 - Thermodynamics of Materials
+MSE 204 - Materials Structure and Defect
+MSE 205 - Diffusion & Kinetics
+MSE 206 - Materials Characterization
+MSE 207 - Materials Science for CHE
+MSE 301 - Engineering Metallic Materials
+MSE 302 - Polymeric Materials
+MSE 303 - Materials Synthesis Lab
+MSE 304 - Engineering Ceramics
+MSE 305 - Composite Materials
+MSE 306 - Failure of Materials & Prevention
+MSE 307 - Materials Processing & Properties Lab
+MSE 399 - Summer Training
+MSE 401 - Electronic,Optical & Mag. Prop
+MSE 402 - Materials Selection & Design
+MSE 411 - Senior Design Project I
+MSE 412 - Senior Design Project II
+MSE 414 - Materials Chemistry
+MSE 415 - Modeling in Materials Processing
+MSE 416 - Introduction to Atomistic Simulations
+MSE 417 - Introduction to Nanomaterials
+MSE 418 - Corrosion Engineering
+MSE 419 - Corrosion in Oil and Petrochemical Industries
+MSE 420 - Degradation of Polymers
+MSE 421 - Electrochemistry
+MSE 422 - Nondestructive Evaluation
+MSE 423 - Introduction to Semiconductor and Micro/Nano Fabrication
+MSE 424 - Introduction to Computational Materials Science
+MSE 425 - Polymer Characterization and Analysis
+MSE 426 - Principles of Metal Heat Treatment
+MSE 427 - Welding Processes and Metallurgy
+MSE 428 - Physical Metallurgy
+MSE 429 - Non-Ferrous Extractive Metallurgy
+MSE 430 - Iron and Steel Making
+MSE 431 - Materials for Clean Water
+MSE 432 - Materials and Sustainable Development
+MSE 433 - Electrochemical Engineering Fundamentals
+MSE 434 - Mechanical Failure of Material
+MSE 435 - Corrosion Prevention, Control and Monitoring
+MSE 436 - Mineral Processing
+MSE 490 - Special Topics in Materials Science and Engineering
+MSE 491 - Special Topics in Materials Synthesis
+MSE 492 - Special Topics in Materials Processing
+MSE 493 - Special Topics in Advanced Materials
+MSE 494 - Undergraduate Thesis I
+MSE 495 - Undergraduate Research
+MSE 496 - Undergraduate Thesis II
+OM 201 - Statistic Methods for Management I
+OM 202 - Statistic Methods for Management II
+OM 210 - Operations Management
+OM 310 - Quantitative Methods for Management
+OM 311 - Business Analytics
+OM 320 - Introduction to Supply Chain Management
+OM 321 - Procurement and Supplier Relationship Management
+OM 322 - Inventory and Warehouse Management
+OM 323 - Logistics and Transportation Management
+OM 405 - Production Planning & Control
+OM 407 - Quality Control & Reliability
+OM 420 - Operation Research
+OM 421 - Procurement and Suppliers Management
+OM 423 - Logistics and Transportation Management
+OM 430 - Supply Chain Management
+OSC 210 - Introduction to Operations and Supply Chain
+OSC 310 - AI for Forecasting and Operations Planning
+OSC 320 - Intelligent Enterprise Systems
+OSC 331 - Sourcing and Procurement
+OSC 340 - Decision and Risk Analytics
+OSC 398 - Internship
+OSC 399 - Summer Training
+OSC 410 - Analytics for Performance Excellence
+OSC 411 - Senior Project I
+OSC 412 - Senior Project II
+OSC 450 - Sustainable Operations
+OSC 460 - Case Studies in Operations and Supply Chain
+PE 101 - Physical Education III
+PE 102 - Health & Physical Education II
+PE 201 - Physical Education III
+PE 202 - Physical Education IV
+PE 301 - Elce 1 (For Team Members)
+PE 302 - Elec 2 (For Team Members)
+PE 303 - Elec 3 (For Team Members)
+PETE 101 - Introduction to the Petroleum Industry
+PETE 201 - Introduction to Petroleum Engineering
+PETE 202 - Phase Behavior
+PETE 203 - Drilling Engineering I
+PETE 204 - Reservoir Rock Properties
+PETE 205 - Petroleum Fluid Properties
+PETE 206 - Rock and Fluid Properties
+PETE 301 - Reservoir Engineering
+PETE 302 - Well Completion
+PETE 303 - Well Logging
+PETE 304 - Drilling Engineering II
+PETE 305 - Reservoir Description
+PETE 306 - Well Testing
+PETE 311 - Drilling Engineering
+PETE 313 - Well Logging
+PETE 315 - Reservoir Description
+PETE 350 - Begin Cooperative Work
+PETE 351 - Cooperative Work
+PETE 352 - End Cooperative Work
+PETE 399 - Summer Training
+PETE 400 - Special Topics
+PETE 401 - Reservoir Description
+PETE 402 - Reservoir Simulation
+PETE 403 - Petroleum Production Engg
+PETE 404 - Production Facilities Design
+PETE 405 - Water Flooding
+PETE 406 - Improved Oil Recovery
+PETE 407 - Natural Resources Economics
+PETE 408 - Seminar
+PETE 409 - Artificial Lift
+PETE 410 - Natural Gas Engineering
+PETE 411 - Senior Design Project I
+PETE 412 - Senior Design Project II
+PETE 414 - Formation Damage
+PETE 417 - Surface Facilities
+PETE 418 - Modern Petroleum Production
+PETE 421 - Directional Drilling
+PETE 422 - Well Control
+PETE 424 - Rock Mechanics for Petroleum Engineers
+PETE 431 - Reservoir Management
+PETE 432 - Water Flooding
+PETE 452 - Naturally-Fractured Reservoirs
+PETE 453 - Production Logging
+PETE 461 - Chemical Enhanced Oil Recovery
+PETE 462 - Thermal Enhanced Oil Recovery
+PETE 463 - Miscible Enhanced Oil Recovery
+PETE 464 - Energy Sustainability
+PETE 465 - Carbon Capture, Utilization and Sequestration
+PETE 466 - Hydrogen Geostorage
+PETE 471 - Introduction to Unconventional Resources
+PETE 472 - Unconventional Resources Stimulation
+PETE 473 - Unconventional Resources Evaluation
+PETE 490 - Special Topics in Petroleum Engineering I
+PETE 491 - Special Topics in Petroleum Engineering II
+PETE 494 - Undergraduate Thesis I
+PETE 495 - Directed Undergraduate Research
+PETE 496 - Undergraduate Thesis II
+PHYS 101 - General Physics I
+PHYS 102 - General Physics II
+PHYS 133 - Principles of Physics
+PHYS 201 - General Physics III
+PHYS 203 - Electrical and Magnetic Properties of Materials
+PHYS 204 - General Physics III
+PHYS 205 - General Physics III LAB
+PHYS 210 - Methods of Theoretical Physics
+PHYS 211 - Optics
+PHYS 212 - Modern Physics
+PHYS 213 - Modern Physics
+PHYS 215 - Introduction to Astronomy
+PHYS 234 - The Physics of How Things Work
+PHYS 261 - Energy
+PHYS 271 - Introduction to Special Relativity
+PHYS 300 - Classical Mechanics I
+PHYS 301 - Classical Mechanics I
+PHYS 302 - Classical Mechanics II
+PHYS 303 - Experimental Physics I
+PHYS 304 - Experimental Physics II
+PHYS 305 - Electricity and Magnetism I
+PHYS 306 - Electricity and Magnetism II
+PHYS 307 - Laser Molecular Spectroscopy
+PHYS 308 - Electronics
+PHYS 309 - Experimental Physics
+PHYS 310 - Quantum Mechanics and Applications I
+PHYS 311 - Optics
+PHYS 315 - Astrophysics
+PHYS 317 - Introduction to Special Relativity
+PHYS 323 - Physics of Nuclear Reactors
+PHYS 336 - Physics of Semiconductor Devices
+PHYS 353 - Radiation and Health Physics
+PHYS 361 - Energy
+PHYS 365 - Introduction to Medical Physics
+PHYS 371 - Methods of Theoretical Physics
+PHYS 373 - Intro to Computational Physics
+PHYS 399 - Summer Training
+PHYS 401 - Quantum Mechanics and Applications I
+PHYS 402 - Quantum Mechanics and Applications II
+PHYS 403 - Senior Physics Laboratory
+PHYS 404 - Physics Project Laboratory
+PHYS 405 - Physics Project Laboratory
+PHYS 409 - Physics Seminar
+PHYS 410 - Quantum Mechanics and Applications II
+PHYS 411 - Senior Design Project I
+PHYS 412 - Senior Design Project II
+PHYS 413 - Advanced Optics
+PHYS 414 - Physics of Lasers
+PHYS 415 - Laser and Applications
+PHYS 416 - Cosmology & the Early Universe
+PHYS 417 - Introduction to General Relativity
+PHYS 422 - Nuclear Physics
+PHYS 423 - Physics of Nuclear Reactors
+PHYS 430 - Thermal & Statistical Physics
+PHYS 431 - Monte Carlo Simulations in Statistical Mechanics
+PHYS 432 - Introduction to Solid State Physics
+PHYS 434 - Introduction to the Physics of Surface
+PHYS 435 - Superconductivity
+PHYS 441 - Particle Physics
+PHYS 442 - Relativistic Quantum Mechanics
+PHYS 451 - Nanophysics and Nanotechnology
+PHYS 461 - Introduction to Plasma Physics
+PHYS 471 - Introduction to Quantum Information and Computing
+PHYS 472 - Qubits and Circuit Quantum Electrodynamics
+PHYS 473 - Materials Informatics
+PHYS 493 - Selected Topics in Physics
+PHYS 494 - Undergraduate Thesis I
+PHYS 495 - Guided Studies
+PHYS 496 - Undergraduate Thesis II
+PHYS 497 - Undergraduate Research I
+PHYS 498 - Undergraduate Research II
+PHYS 499 - Seminar
+RES 100 - Introduction to Research
+RES 200 - Independent Research
+RES 201 - Vertically Integrated Research I
+RES 299 - Summer Research
+RES 301 - Vertically Integrated Research II
+RES 401 - Vertically Integrated Research III
+SDE 399 - Summer Training
+SDE 411 - Senior Design Project I
+SDE 412 - Senior Design Project II
+SE 100 - Introduction to Technology
+SE 201 - Introduction to Systems Engineering
+SE 205 - Engineering Probability and Statistics
+SE 207 - Modeling and Simulation
+SE 301 - Numerical Methods
+SE 302 - Linear Control Systems
+SE 303 - Operations Research I
+SE 305 - Optimization Methods
+SE 307 - Engineering Economic Analysis
+SE 311 - Digital Systems Design
+SE 312 - Instrumentation
+SE 315 - Signals & Systems
+SE 320 - Quality Control and Industrial Statistics
+SE 322 - Manufacturing Technology
+SE 323 - Methods Engineering
+SE 325 - Engineering Statistics
+SE 350 - Begin Cooperative Work
+SE 351 - Cooperative Work
+SE 352 - End Cooperative Work
+SE 399 - Summer Training
+SE 401 - Computer Control Systems
+SE 402 - Production Systems and Inventory Control
+SE 405 - Stochastic System Simulation
+SE 417 - Microprocessors in Automation Systems
+SE 418 - Industrial Process Control
+SE 421 - Operations Research II
+SE 422 - Facility Layout and Location
+SE 429 - Maintenance Planning & Control
+SE 432 - Digital Signal Processing
+SE 435 - Control Systems Design
+SE 436 - Introduction to Robust Control
+SE 438 - Instrumentation for Process Control
+SE 439 - Special Topics in Automation
+SE 443 - Human Factors Engineering
+SE 447 - Decision Making
+SE 448 - Sequencing and Scheduling
+SE 449 - Special Topics in Industrial Engineering & Operations Research
+SE 450 - Methodology for Large Scale Systems
+SE 461 - Computer-Aided Manufacturing and Robotics
+SE 463 - Theory of Stochastic Systems
+SE 464 - Industrial Information Systems
+SE 465 - Industrial Safety
+SE 470 - Digital Computing Techniques I
+SE 475 - Digital Computing Techniques II
+SE 480 - Reliability & Maintainability
+SE 490 - Systems Engineering Senior Project
+SSC 200 - Visual Communication for Urban Planners
+SSC 201 - Introduction to Smart & Sustainable Cities
+SSC 202 - Sustainable Urbanization
+SSC 203 - Humanizing the Smart City
+SSC 211 - Land Use & Environment
+SSC 212 - Urban Information Systems
+SSC 304 - City Design I: Spatial Analysis
+SSC 305 - City Design II: Urban Form and Formation
+SSC 313 - Urban System Modeling and Simulation
+SSC 314 - Urban Indicators Assessment
+SSC 321 - Circular Economy
+SSC 331 - Sustainable Infrastructure Systems
+SSC 399 - Summer Training
+SSC 406 - City Design III: Digital Urban Twin
+SSC 411 - Senior Design Project I
+SSC 412 - Senior Design Project II
+SSC 419 - Urban Code Development
+SSC 422 - Management of Smart Cities & Governance
+SSC 423 - Urban Policy Development & Enactment
+SSC 425 - City Resilience & Climate Change
+SSC 426 - City Business Development
+SSC 433 - Smart Mobility
+SSC 434 - Digital Transformation of Cities
+SSC 435 - Sustainable Waste Recycling Systems
+SSC 441 - Plan Evaluation and Appraisal
+SSC 471 - Urban Livability
+SSC 481 - Urban Ecology
+SSC 491 - Artificial Intelligence in Smart Cities
+SSC 494 - Undergraduate Thesis I
+SSC 496 - Undergraduate Thesis II
+STAT 201 - Probability and Statistics for Engineers and Scientists
+STAT 211 - Statistics for Business I
+STAT 212 - Statistics for Business II
+STAT 213 - Statistical Methods for Actuaries
+STAT 214 - Actuaries and Business Statistics
+STAT 220 - Statistical Computing Software
+STAT 301 - Probability Theory and Mathematical Statistics
+STAT 302 - Statistical Inference
+STAT 310 - Regression Analysis
+STAT 319 - Probability and Statistics for Engineers and Scientists
+STAT 320 - Statistical Quality Control
+STAT 325 - Nonparametric Statistical Methods
+STAT 342 - Applied Statistics
+STAT 355 - Demographic Methods
+STAT 361 - Operations Research I
+STAT 365 - Data Collection and Sampling Methods
+STAT 375 - Categorical Data Analysis
+STAT 399 - Summer Training
+STAT 413 - Statistical Modeling
+STAT 415 - Stochastic Processes
+STAT 416 - Stochastic Processes for Actuaries
+STAT 430 - Experimental Design
+STAT 435 - Linear Models
+STAT 436 - Generalized Linear Models
+STAT 440 - Multivariate Analysis
+STAT 460 - Time Series
+STAT 461 - Operations Research II
+STAT 470 - Senior Project in Statistics
+STAT 475 - Statistical Models for Lifetime Data
+STAT 499 - Topics in Statistics
+SWE 205 - Introduction to Software Engineering
+SWE 206 - Introduction to Software Engineering
+SWE 214 - Introduction to Software Engineering
+SWE 215 - Software Requirements Engineering
+SWE 216 - Software Requirements Engineering
+SWE 302 - Game Programming
+SWE 311 - Principes of Software Engineering
+SWE 312 - User-Interface Design
+SWE 316 - Software Design and Construction
+SWE 321 - Formal Methods and Models in Software Engineering
+SWE 322 - Principles of Concurrent Software Systems
+SWE 326 - Software Testing
+SWE 344 - Internet Protocols and Client-Server Programming
+SWE 363 - Web Engineering & Development
+SWE 387 - Software Project Management
+SWE 399 - Summer Training
+SWE 402 - Game Programming
+SWE 411 - Software Engineering Project I
+SWE 412 - Software Engineering Project II
+SWE 413 - Senior Design Project I
+SWE 414 - Senior Project II
+SWE 415 - Software Testing and Quality Assurance
+SWE 416 - Software Architecture
+SWE 417 - Software Engineering Project I
+SWE 418 - Software Engineering Project II
+SWE 421 - Principles of Information Security
+SWE 422 - Usability Engineering
+SWE 423 - Multimedia Systems
+SWE 436 - Object-Oriented Design Patterns
+SWE 439 - Software Quality Engineering
+SWE 440 - Information Security Management
+SWE 444 - Internet and Web Applications Deveopment
+SWE 445 - Secure Software Development
+SWE 446 - Selected Topics on Emerging Internet Technologies
+SWE 455 - Cloud Applications Engineering
+SWE 463 - Mobile Application Development
+SWE 469 - Software Metrics
+SWE 487 - Software Processes and Process Improvements
+SWE 490 - Special Topics I
+SWE 491 - Special Topics II
+SWE 494 - Undergraduate Thesis I
+SWE 496 - Undergraduate Thesis II
+SWE 497 - Undergraduate Research

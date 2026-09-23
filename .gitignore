@@ -1,0 +1,18 @@
+# build output
+installer/output/
+# personal settings never belong in the repo
+rules.json
+sorter.log
+lastrun.txt
+*.tmp
+Thumbs.db
+desktop.ini
+
+# local test helpers (not part of the app)
+_test/
+
+# iOS build output
+ios-app/build/
+ios-app/*.xcodeproj/
+ios-app/Payload/
+ios-app/*.ipa

@@ -1,0 +1,50 @@
+# Builds KFUPM-Sorter-Setup.exe on GitHub's Windows machines.
+# Publish a release (for example v1.1.0) on GitHub and the installer is built and
+# attached to it, so the "latest" download link always works.
+name: Build installer
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check PowerShell files parse
+        shell: pwsh
+        run: |
+          $bad = 0
+          Get-ChildItem src -Filter *.ps1 | ForEach-Object {
+            $t = $null; $e = $null
+            [void][System.Management.Automation.Language.Parser]::ParseFile($_.FullName, [ref]$t, [ref]$e)
+            if ($e.Count) { $bad++; Write-Host "::error file=src/$($_.Name)::$($e[0].Message)" }
+          }
+          exit $bad
+
+      - name: Install Inno Setup if missing
+        shell: pwsh
+        run: |
+          $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          if (-not (Test-Path $iscc)) { choco install innosetup -y --no-progress }
+
+      - name: Build installer
+        shell: pwsh
+        run: '& "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe" installer\KFUPM-Sorter.iss'
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: KFUPM-Sorter-Setup
+          path: installer/output/KFUPM-Sorter-Setup.exe
+
+      - name: Attach to the release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: installer/output/KFUPM-Sorter-Setup.exe

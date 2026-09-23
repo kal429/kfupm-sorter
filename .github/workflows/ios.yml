@@ -1,0 +1,64 @@
+# Builds the iOS / iPadOS app on GitHub's Macs (no Mac needed on your side).
+# The result is an unsigned KFUPM-Sorter-iOS.ipa. Install it with Sideloadly or
+# AltStore (they sign it with your Apple ID), or sign it with a developer account.
+name: Build iOS app
+
+on:
+  push:
+    branches: [main]
+    paths: ['ios-app/**', '.github/workflows/ios.yml']
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the Xcode project
+        working-directory: ios-app
+        run: |
+          brew install xcodegen
+          xcodegen generate
+
+      - name: Build (unsigned)
+        working-directory: ios-app
+        run: |
+          xcodebuild -project KFUPMSorter.xcodeproj -scheme KFUPMSorter \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            build > build.log 2>&1 || { grep -E "error:" build.log | head -60; tail -30 build.log; exit 1; }
+          grep -c "warning:" build.log || true
+          test -d build/Build/Products/Release-iphoneos/KFUPMSorter.app
+
+      - name: Keep the build log if something failed
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-build-log
+          path: ios-app/build.log
+
+      - name: Package the .ipa
+        working-directory: ios-app
+        run: |
+          mkdir -p Payload
+          cp -R build/Build/Products/Release-iphoneos/KFUPMSorter.app Payload/
+          zip -qry KFUPM-Sorter-iOS.ipa Payload
+          ls -la KFUPM-Sorter-iOS.ipa
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: KFUPM-Sorter-iOS
+          path: ios-app/KFUPM-Sorter-iOS.ipa
+
+      - name: Attach to the release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ios-app/KFUPM-Sorter-iOS.ipa
