@@ -5,11 +5,12 @@
 <h1 align="center">KFUPM Sorter</h1>
 
 <p align="center">يرتّب مجلد التنزيلات حسب مقرراتك تلقائيًا.<br>
-برنامج لنظام Windows · اختصار لأجهزة iPhone وiPad وMac · بالعربية والإنجليزية</p>
+برنامج لنظامي Windows وmacOS · تطبيق واختصار لأجهزة iPhone وiPad · بالعربية والإنجليزية</p>
 
 <p align="center">
   <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>تنزيل لنظام Windows</b></a> &nbsp;·&nbsp;
-  <a href="docs/ios-shortcut.ar.md"><b>iPhone وiPad وMac</b></a> &nbsp;·&nbsp;
+  <a href="desktop-app/README.md#بالعربية"><b>Mac</b></a> &nbsp;·&nbsp;
+  <a href="docs/ios-shortcut.ar.md"><b>iPhone وiPad</b></a> &nbsp;·&nbsp;
   <a href="https://kal429.github.io/kfupm-sorter/">الموقع</a> &nbsp;·&nbsp;
   <a href="README.md">English</a>
 </p>
@@ -67,7 +68,11 @@ Downloads/
 
 لإلغاء التثبيت: **الإعدادات ← التطبيقات ← KFUPM Sorter ← إلغاء التثبيت**. تُزال المهمة الخلفية، وتبقى ملفاتك المرتبة في أماكنها.
 
-### iPhone وiPad وMac
+### Mac (وWindows): نسخة Java
+
+مجلد [`desktop-app/`](desktop-app) فيه التطبيق نفسه مكتوبًا بلغة Java، ليعمل البرنامج الواحد على **macOS وWindows**، وJava مرفقة بداخله. نزّل `KFUPM-Sorter-Desktop-macOS-AppleSilicon.dmg` (لأجهزة M1 أو أحدث) أو `KFUPM-Sorter-Desktop-macOS-Intel.dmg` من [أحدث إصدار](https://github.com/kal429/kfupm-sorter/releases/latest)، وافتحه واسحب التطبيق إلى مجلد التطبيقات، وافتحه أول مرة بالنقر بالزر الأيمن ثم **فتح**. التفاصيل في [`desktop-app/README.md`](desktop-app/README.md#بالعربية).
+
+### iPhone وiPad
 
 يعمل KFUPM Sorter على أجهزة Apple بوصفه اختصارًا في تطبيق «الاختصارات»، بدليل المقررات نفسه والفلاتر المخصصة والترتيب حسب النوع، ويعمل تلقائيًا كلما أغلقت Safari. راجع **[دليل iPhone وiPad وMac](docs/ios-shortcut.ar.md)**.
 

@@ -3,7 +3,7 @@
 ; Easiest: double-click build-installer.bat in this folder.
 
 #define AppName      "KFUPM Sorter"
-#define AppVersion   "1.1.0"
+#define AppVersion   "1.2.0"
 #define AppPublisher "KFUPM Sorter (student project)"
 #define AppURL       "https://github.com/kal429/kfupm-sorter"
 
