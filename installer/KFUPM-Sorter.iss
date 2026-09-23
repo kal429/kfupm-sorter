@@ -5,7 +5,7 @@
 #define AppName      "KFUPM Sorter"
 #define AppVersion   "1.2.0"
 #define AppPublisher "KFUPM Sorter (student project)"
-#define AppURL       "https://github.com/kal429/kfupm-sorter"
+#define AppURL       "https://github.com/kal429/kfupm-sorter-windows"
 
 [Setup]
 AppId={{6C1C4F0E-3B7A-4E53-9A8B-2F4D6E1A9C27}

@@ -16,6 +16,3 @@ ios-app/build/
 ios-app/*.xcodeproj/
 ios-app/Payload/
 ios-app/*.ipa
-
-# Java desktop build output
-desktop-app/build/
