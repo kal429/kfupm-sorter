@@ -390,7 +390,7 @@ struct AboutView: View {
                 } header: { Text(t("about.privacy")) }
 
                 Section {
-                    Link("github.com/kal429/kfupm-sorter-windows", destination: URL(string: "https://github.com/kal429/kfupm-sorter-windows")!)
+                    Link("github.com/kal429/kfupm-sorter", destination: URL(string: "https://github.com/kal429/kfupm-sorter")!)
                 } header: { Text(t("about.open")) } footer: {
                     Text(t("about.disclaimer"))
                 }

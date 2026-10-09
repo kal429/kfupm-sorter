@@ -8,10 +8,10 @@
 <b>برنامج لنظام Windows</b> (PowerShell) · تطبيق واختصار لأجهزة iPhone وiPad · بالعربية والإنجليزية</p>
 
 <p align="center">
-  <a href="https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>تنزيل لنظام Windows</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>تنزيل لنظام Windows</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية"><b>Mac</b></a> &nbsp;·&nbsp;
   <a href="docs/ios-shortcut.ar.md"><b>iPhone وiPad</b></a> &nbsp;·&nbsp;
-  <a href="https://kal429.github.io/kfupm-sorter-windows/">الموقع</a> &nbsp;·&nbsp;
+  <a href="https://kal429.github.io/kfupm-sorter/">الموقع</a> &nbsp;·&nbsp;
   <a href="README.md">English</a>
 </p>
 
@@ -62,7 +62,7 @@ Downloads/
 
 ### Windows
 
-1. نزّل **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe)**، وهذا الرابط يشير دائمًا إلى أحدث إصدار.
+1. نزّل **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe)**، وهذا الرابط يشير دائمًا إلى أحدث إصدار.
 2. شغّله، ولا حاجة إلى صلاحيات المسؤول، إذ يُثبَّت لحسابك فقط.
 3. اختر مقرراتك، وأضف ما تشاء من الفلاتر المخصصة، ثم اضغط **حفظ** ووافق على تفعيل الترتيب التلقائي.
 

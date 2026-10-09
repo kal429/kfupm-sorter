@@ -107,7 +107,7 @@ jobs:
             ## Download
 
             - **Windows 10 / 11:** `KFUPM-Sorter-Setup.exe`. No administrator rights needed. If Windows shows "Windows protected your PC", click **More info** then **Run anyway** (the installer is not code-signed yet).
-            - **iPhone / iPad:** `KFUPM-Sorter-iOS.ipa`. Install it with Sideloadly (free, from Windows) or use the Shortcut version. See [ios-app/README.md](https://github.com/kal429/kfupm-sorter-windows/blob/main/ios-app/README.md).
+            - **iPhone / iPad:** `KFUPM-Sorter-iOS.ipa`. Install it with Sideloadly (free, from Windows) or use the Shortcut version. See [ios-app/README.md](https://github.com/kal429/kfupm-sorter/blob/main/ios-app/README.md).
             - **Mac:** use [KFUPM Sorter for Windows and Mac](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest).
 
             ## What it does

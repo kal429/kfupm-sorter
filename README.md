@@ -6,10 +6,10 @@
 <b>Windows app</b> (PowerShell) &middot; iPhone &amp; iPad &middot; English and Arabic</p>
 
 <p align="center">
-  <a href="https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe"><b>Download for Windows</b></a> &nbsp;&middot;&nbsp;
   <a href="https://github.com/kal429/kfupm-sorter-windows-mac"><b>Mac</b></a> &nbsp;&middot;&nbsp;
   <a href="docs/ios-shortcut.md"><b>iPhone &amp; iPad</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://kal429.github.io/kfupm-sorter-windows/">Website</a> &nbsp;&middot;&nbsp;
+  <a href="https://kal429.github.io/kfupm-sorter/">Website</a> &nbsp;&middot;&nbsp;
   <a href="README.ar.md">العربية</a>
 </p>
 
@@ -57,7 +57,7 @@ Downloads/
 
 ### Windows
 
-1. Download **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter-windows/releases/latest/download/KFUPM-Sorter-Setup.exe)**. This link always points to the newest version.
+1. Download **[KFUPM-Sorter-Setup.exe](https://github.com/kal429/kfupm-sorter/releases/latest/download/KFUPM-Sorter-Setup.exe)**. This link always points to the newest version.
 2. Run it. No administrator rights needed. It installs for your user only.
 3. Pick your courses, add any custom filters, press **Save**, and accept "turn on automatic sorting".
 
