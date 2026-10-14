@@ -202,12 +202,12 @@
         <div class="platform"><svg viewBox="0 0 24 24"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-1.9-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9-.1 0-2.8-1-2.8-4.3zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg><h3>Mac</h3></div>
         <ol class="steps">
           <li data-i="m1">Download the file for your Mac, open it and drag <b>KFUPM Sorter Desktop</b> into Applications.</li>
-          <li data-i="m2">The first time, right-click the app and choose <b>Open</b>. When asked, allow access to Downloads.</li>
+          <li data-i="m2">Open <b>Terminal</b> and run this once, or macOS will not open the app: <code style="user-select:all;direction:ltr;unicode-bidi:embed">xattr -cr &quot;/Applications/KFUPM Sorter Desktop.app&quot;</code> When asked, allow access to Downloads.</li>
           <li data-i="m3">Tick your courses, press <b>Save</b> and turn on automatic sorting. It runs from the menu bar.</li>
         </ol>
         <a class="btn btn-green" href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-macOS-AppleSilicon.dmg" data-i="btnMacArm">Download for Mac (M1 or newer)</a>
         <a class="btn btn-line" href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-macOS-Intel.dmg" data-i="btnMacIntel">Mac with Intel</a>
-        <div class="note" data-i="macNote">The Mac app is a separate project, <a href="https://github.com/kal429/kfupm-sorter-windows-mac">KFUPM Sorter for Windows and Mac</a>, written in Java with Java built in. It is not notarized by Apple yet, which is why the first start needs a right-click. The same app also runs on Windows: <a href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-Windows-Setup.exe">KFUPM-Sorter-Windows-Setup.exe</a>.</div>
+        <div class="note" data-i="macNote">The Mac app is a separate project, <a href="https://github.com/kal429/kfupm-sorter-windows-mac">KFUPM Sorter for Windows and Mac</a>, written in Java with Java built in. It is not notarized by Apple, which is why the first start needs the Terminal command above. The same app also runs on Windows: <a href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-Windows-Setup.exe">KFUPM-Sorter-Windows-Setup.exe</a>.</div>
       </div>
     </div>
   </div>
@@ -257,11 +257,11 @@
     btnShortcut: 'احصل على الاختصار',
     btnGuide: 'الدليل خطوة بخطوة',
     m1: 'نزّل الملف المناسب لجهازك، وافتحه، واسحب <b>KFUPM Sorter Desktop</b> إلى مجلد التطبيقات.',
-    m2: 'في المرة الأولى انقر التطبيق بالزر الأيمن واختر <b>فتح</b>، واسمح له باستخدام مجلد التنزيلات عند الطلب.',
+    m2: 'افتح تطبيق <b>Terminal</b> ونفّذ هذا الأمر مرة واحدة، وإلا فلن يفتحه macOS: <code style=\"user-select:all;direction:ltr;unicode-bidi:embed\">xattr -cr &quot;/Applications/KFUPM Sorter Desktop.app&quot;</code> واسمح له باستخدام مجلد التنزيلات عند الطلب.',
     m3: 'حدد مقرراتك، واضغط <b>حفظ</b>، وفعّل الترتيب التلقائي، فيعمل من شريط القوائم.',
     btnMacArm: 'تنزيل لجهاز Mac (M1 أو أحدث)',
     btnMacIntel: 'Mac بمعالج Intel',
-    macNote: 'تطبيق Mac مشروع مستقل هو <a href="https://github.com/kal429/kfupm-sorter-windows-mac">KFUPM Sorter لنظامي Windows وMac</a>، مكتوب بلغة Java وJava مرفقة بداخله. ولأنه غير موثَّق من Apple بعد، يحتاج أول تشغيل إلى النقر بالزر الأيمن. ويعمل التطبيق نفسه على Windows أيضًا: <a href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-Windows-Setup.exe">KFUPM-Sorter-Windows-Setup.exe</a>.',
+    macNote: 'تطبيق Mac مشروع مستقل هو <a href="https://github.com/kal429/kfupm-sorter-windows-mac">KFUPM Sorter لنظامي Windows وMac</a>، مكتوب بلغة Java وJava مرفقة بداخله. ولأنه غير موثَّق من Apple، يحتاج أول تشغيل إلى أمر Terminal المذكور أعلاه. ويعمل التطبيق نفسه على Windows أيضًا: <a href="https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest/download/KFUPM-Sorter-Windows-Setup.exe">KFUPM-Sorter-Windows-Setup.exe</a>.',
     appleNote: 'تستعمل أجهزة Apple تطبيق الاختصارات الخاص بها، فلا حاجة إلى تثبيت أي شيء من خارج App Store، وتُزامَن الاختصارات عبر iCloud مع iPad وMac.',
     disc: 'مشروع طلابي مستقل، غير تابع لجامعة الملك فهد للبترول والمعادن ولا معتمد منها.',
     soon: 'الاختصار: قريبًا'

@@ -67,7 +67,11 @@ To uninstall, use **Settings → Apps → KFUPM Sorter → Uninstall**. The back
 
 ### Mac
 
-The Mac app is a separate project: [**KFUPM Sorter for Windows and Mac**](https://github.com/kal429/kfupm-sorter-windows-mac), the same app written in Java with Java built in. Download `KFUPM-Sorter-macOS-AppleSilicon.dmg` (M1 or newer) or `KFUPM-Sorter-macOS-Intel.dmg` from its [latest release](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest), open it and drag the app to Applications. The first time, right-click it and choose **Open** (it is not notarized yet).
+The Mac app is a separate project: [**KFUPM Sorter for Windows and Mac**](https://github.com/kal429/kfupm-sorter-windows-mac), the same app written in Java with Java built in. Download `KFUPM-Sorter-macOS-AppleSilicon.dmg` (M1 or newer) or `KFUPM-Sorter-macOS-Intel.dmg` from its [latest release](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest), open it and drag the app to Applications. Before the first start, open **Terminal** and run this once (the app is not notarized by Apple, so macOS blocks it otherwise):
+
+```
+xattr -cr "/Applications/KFUPM Sorter Desktop.app"
+```
 
 ### iPhone and iPad
 

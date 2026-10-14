@@ -72,7 +72,15 @@ Downloads/
 
 ### Mac
 
-تطبيق Mac مشروع مستقل: [**KFUPM Sorter لنظامي Windows وMac**](https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية)، وهو التطبيق نفسه مكتوبًا بلغة Java وJava مرفقة بداخله. نزّل `KFUPM-Sorter-macOS-AppleSilicon.dmg` (لأجهزة M1 أو أحدث) أو `KFUPM-Sorter-macOS-Intel.dmg` من [أحدث إصدار](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest)، وافتحه واسحب التطبيق إلى مجلد التطبيقات، وافتحه أول مرة بالنقر بالزر الأيمن ثم **فتح**.
+تطبيق Mac مشروع مستقل: [**KFUPM Sorter لنظامي Windows وMac**](https://github.com/kal429/kfupm-sorter-windows-mac#بالعربية)، وهو التطبيق نفسه مكتوبًا بلغة Java وJava مرفقة بداخله. نزّل `KFUPM-Sorter-macOS-AppleSilicon.dmg` (لأجهزة M1 أو أحدث) أو `KFUPM-Sorter-macOS-Intel.dmg` من [أحدث إصدار](https://github.com/kal429/kfupm-sorter-windows-mac/releases/latest)، وافتحه واسحب التطبيق إلى مجلد التطبيقات، وقبل فتحه أول مرة افتح تطبيق Terminal ونفّذ هذا الأمر مرة واحدة، لأن التطبيق غير موثَّق من Apple:
+
+<div dir="ltr">
+
+```
+xattr -cr "/Applications/KFUPM Sorter Desktop.app"
+```
+
+</div>
 
 ### iPhone وiPad
 
